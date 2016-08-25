@@ -9,7 +9,7 @@ The stats is returned as array like [HP, Attack, Defense, Sp.Attack, Sp.Defense,
 ## Install
 
 ```
-$ npm indtall --save pokemon-base-stats
+$ npm install --save pokemon-base-stats
 ```
 
 
