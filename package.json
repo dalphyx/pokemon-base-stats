@@ -1,0 +1,33 @@
+{
+  "name": "pokemon-base-stats",
+  "version": "0.0.0",
+  "description": "Get Pokémon base stats",
+  "main": "index.js",
+  "keywords": [
+    "pokemon",
+    "stats",
+    "data"
+  ],
+  "author": "dalphyx <wjcbmk@gmail.com>",
+  "scripts": {
+    "test": "ava",
+    "lint": "eslint ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalphyx/pokemon-base-stats.git"
+  },
+  "dependencies": {
+    "pokemon": "^0.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "eslint": "^3.3.1",
+    "eslint-config-dalphyx": "^0.1.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalphyx/pokemon-base-stats/issues"
+  },
+  "homepage": "https://github.com/dalphyx/pokemon-base-stats#readme"
+}
