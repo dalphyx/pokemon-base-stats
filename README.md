@@ -1,5 +1,7 @@
 # pokemon-base-stats
 
+[![Build Status](https://travis-ci.org/dalphyx/pokemon-base-stats.svg?branch=master)](https://travis-ci.org/dalphyx/pokemon-base-stats) [![npm package](https://img.shields.io/npm/v/pokemon-base-stats.svg)](https://www.npmjs.com/package/pokemon-base-stats)
+
 > Get [Pokémon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) base stats
 
 The stats is returned as array like [HP, Attack, Defense, Sp.Attack, Sp.Defense, Speed].
