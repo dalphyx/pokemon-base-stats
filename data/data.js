@@ -9,8 +9,8 @@ exports.loadData = function (lang) {
 function getDataList (localizedFormes) {
   let data = [
     {
-      "dexNumber": "001",
-      "base": [
+      'dexNumber': '001',
+      'base': [
         45,
         49,
         49,
@@ -20,8 +20,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "002",
-      "base": [
+      'dexNumber': '002',
+      'base': [
         60,
         62,
         63,
@@ -31,8 +31,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "003",
-      "base": [
+      'dexNumber': '003',
+      'base': [
         80,
         82,
         83,
@@ -40,8 +40,8 @@ function getDataList (localizedFormes) {
         100,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           100,
           123,
@@ -52,8 +52,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "004",
-      "base": [
+      'dexNumber': '004',
+      'base': [
         39,
         52,
         43,
@@ -63,8 +63,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "005",
-      "base": [
+      'dexNumber': '005',
+      'base': [
         58,
         64,
         58,
@@ -74,8 +74,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "006",
-      "base": [
+      'dexNumber': '006',
+      'base': [
         78,
         84,
         78,
@@ -83,8 +83,8 @@ function getDataList (localizedFormes) {
         85,
         100
       ],
-      "otherForme": {
-        "megaY": [
+      'otherForme': {
+        'megaY': [
           78,
           104,
           78,
@@ -92,7 +92,7 @@ function getDataList (localizedFormes) {
           115,
           100
         ],
-        "megaX": [
+        'megaX': [
           78,
           130,
           111,
@@ -103,8 +103,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "007",
-      "base": [
+      'dexNumber': '007',
+      'base': [
         44,
         48,
         65,
@@ -114,8 +114,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "008",
-      "base": [
+      'dexNumber': '008',
+      'base': [
         59,
         63,
         80,
@@ -125,8 +125,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "009",
-      "base": [
+      'dexNumber': '009',
+      'base': [
         79,
         83,
         100,
@@ -134,8 +134,8 @@ function getDataList (localizedFormes) {
         105,
         78
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           79,
           103,
           120,
@@ -146,8 +146,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "010",
-      "base": [
+      'dexNumber': '010',
+      'base': [
         45,
         30,
         35,
@@ -157,8 +157,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "011",
-      "base": [
+      'dexNumber': '011',
+      'base': [
         50,
         20,
         55,
@@ -168,8 +168,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "012",
-      "base": [
+      'dexNumber': '012',
+      'base': [
         60,
         45,
         50,
@@ -179,8 +179,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "013",
-      "base": [
+      'dexNumber': '013',
+      'base': [
         40,
         35,
         30,
@@ -190,8 +190,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "014",
-      "base": [
+      'dexNumber': '014',
+      'base': [
         45,
         25,
         50,
@@ -201,8 +201,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "015",
-      "base": [
+      'dexNumber': '015',
+      'base': [
         65,
         90,
         40,
@@ -210,8 +210,8 @@ function getDataList (localizedFormes) {
         80,
         75
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           65,
           150,
           40,
@@ -222,8 +222,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "016",
-      "base": [
+      'dexNumber': '016',
+      'base': [
         40,
         45,
         40,
@@ -233,8 +233,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "017",
-      "base": [
+      'dexNumber': '017',
+      'base': [
         63,
         60,
         55,
@@ -244,8 +244,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "018",
-      "base": [
+      'dexNumber': '018',
+      'base': [
         83,
         80,
         75,
@@ -253,8 +253,8 @@ function getDataList (localizedFormes) {
         70,
         101
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           83,
           80,
           80,
@@ -265,8 +265,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "019",
-      "base": [
+      'dexNumber': '019',
+      'base': [
         30,
         56,
         35,
@@ -276,8 +276,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "020",
-      "base": [
+      'dexNumber': '020',
+      'base': [
         55,
         81,
         60,
@@ -287,8 +287,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "021",
-      "base": [
+      'dexNumber': '021',
+      'base': [
         40,
         60,
         30,
@@ -298,8 +298,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "022",
-      "base": [
+      'dexNumber': '022',
+      'base': [
         65,
         90,
         65,
@@ -309,8 +309,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "023",
-      "base": [
+      'dexNumber': '023',
+      'base': [
         35,
         60,
         44,
@@ -320,8 +320,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "024",
-      "base": [
+      'dexNumber': '024',
+      'base': [
         60,
         85,
         69,
@@ -331,8 +331,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "025",
-      "base": [
+      'dexNumber': '025',
+      'base': [
         35,
         55,
         40,
@@ -342,8 +342,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "026",
-      "base": [
+      'dexNumber': '026',
+      'base': [
         60,
         90,
         55,
@@ -353,8 +353,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "027",
-      "base": [
+      'dexNumber': '027',
+      'base': [
         50,
         75,
         85,
@@ -364,8 +364,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "028",
-      "base": [
+      'dexNumber': '028',
+      'base': [
         75,
         100,
         110,
@@ -375,8 +375,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "029",
-      "base": [
+      'dexNumber': '029',
+      'base': [
         55,
         47,
         52,
@@ -386,8 +386,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "030",
-      "base": [
+      'dexNumber': '030',
+      'base': [
         70,
         62,
         67,
@@ -397,8 +397,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "031",
-      "base": [
+      'dexNumber': '031',
+      'base': [
         90,
         92,
         87,
@@ -408,8 +408,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "032",
-      "base": [
+      'dexNumber': '032',
+      'base': [
         46,
         57,
         40,
@@ -419,8 +419,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "033",
-      "base": [
+      'dexNumber': '033',
+      'base': [
         61,
         72,
         57,
@@ -430,8 +430,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "034",
-      "base": [
+      'dexNumber': '034',
+      'base': [
         81,
         102,
         77,
@@ -441,8 +441,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "035",
-      "base": [
+      'dexNumber': '035',
+      'base': [
         70,
         45,
         48,
@@ -452,8 +452,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "036",
-      "base": [
+      'dexNumber': '036',
+      'base': [
         95,
         70,
         73,
@@ -463,8 +463,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "037",
-      "base": [
+      'dexNumber': '037',
+      'base': [
         38,
         41,
         40,
@@ -474,8 +474,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "038",
-      "base": [
+      'dexNumber': '038',
+      'base': [
         73,
         76,
         75,
@@ -485,8 +485,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "039",
-      "base": [
+      'dexNumber': '039',
+      'base': [
         115,
         45,
         20,
@@ -496,8 +496,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "040",
-      "base": [
+      'dexNumber': '040',
+      'base': [
         140,
         70,
         45,
@@ -507,8 +507,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "041",
-      "base": [
+      'dexNumber': '041',
+      'base': [
         40,
         45,
         35,
@@ -518,8 +518,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "042",
-      "base": [
+      'dexNumber': '042',
+      'base': [
         75,
         80,
         70,
@@ -529,8 +529,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "043",
-      "base": [
+      'dexNumber': '043',
+      'base': [
         45,
         50,
         55,
@@ -540,8 +540,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "044",
-      "base": [
+      'dexNumber': '044',
+      'base': [
         60,
         65,
         70,
@@ -551,8 +551,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "045",
-      "base": [
+      'dexNumber': '045',
+      'base': [
         75,
         80,
         85,
@@ -562,8 +562,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "046",
-      "base": [
+      'dexNumber': '046',
+      'base': [
         35,
         70,
         55,
@@ -573,8 +573,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "047",
-      "base": [
+      'dexNumber': '047',
+      'base': [
         60,
         95,
         80,
@@ -584,8 +584,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "048",
-      "base": [
+      'dexNumber': '048',
+      'base': [
         60,
         55,
         50,
@@ -595,8 +595,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "049",
-      "base": [
+      'dexNumber': '049',
+      'base': [
         70,
         65,
         60,
@@ -606,8 +606,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "050",
-      "base": [
+      'dexNumber': '050',
+      'base': [
         10,
         55,
         25,
@@ -617,8 +617,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "051",
-      "base": [
+      'dexNumber': '051',
+      'base': [
         35,
         80,
         50,
@@ -628,8 +628,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "052",
-      "base": [
+      'dexNumber': '052',
+      'base': [
         40,
         45,
         35,
@@ -639,8 +639,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "053",
-      "base": [
+      'dexNumber': '053',
+      'base': [
         65,
         70,
         60,
@@ -650,8 +650,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "054",
-      "base": [
+      'dexNumber': '054',
+      'base': [
         50,
         52,
         48,
@@ -661,8 +661,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "055",
-      "base": [
+      'dexNumber': '055',
+      'base': [
         80,
         82,
         78,
@@ -672,8 +672,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "056",
-      "base": [
+      'dexNumber': '056',
+      'base': [
         40,
         80,
         35,
@@ -683,8 +683,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "057",
-      "base": [
+      'dexNumber': '057',
+      'base': [
         65,
         105,
         60,
@@ -694,8 +694,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "058",
-      "base": [
+      'dexNumber': '058',
+      'base': [
         55,
         70,
         45,
@@ -705,8 +705,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "059",
-      "base": [
+      'dexNumber': '059',
+      'base': [
         90,
         110,
         80,
@@ -716,8 +716,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "060",
-      "base": [
+      'dexNumber': '060',
+      'base': [
         40,
         50,
         40,
@@ -727,8 +727,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "061",
-      "base": [
+      'dexNumber': '061',
+      'base': [
         65,
         65,
         65,
@@ -738,8 +738,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "062",
-      "base": [
+      'dexNumber': '062',
+      'base': [
         90,
         95,
         95,
@@ -749,8 +749,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "063",
-      "base": [
+      'dexNumber': '063',
+      'base': [
         25,
         20,
         15,
@@ -760,8 +760,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "064",
-      "base": [
+      'dexNumber': '064',
+      'base': [
         40,
         35,
         30,
@@ -771,8 +771,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "065",
-      "base": [
+      'dexNumber': '065',
+      'base': [
         55,
         50,
         45,
@@ -780,8 +780,8 @@ function getDataList (localizedFormes) {
         95,
         120
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           55,
           50,
           65,
@@ -792,8 +792,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "066",
-      "base": [
+      'dexNumber': '066',
+      'base': [
         70,
         80,
         50,
@@ -803,8 +803,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "067",
-      "base": [
+      'dexNumber': '067',
+      'base': [
         80,
         100,
         70,
@@ -814,8 +814,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "068",
-      "base": [
+      'dexNumber': '068',
+      'base': [
         90,
         130,
         80,
@@ -825,8 +825,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "069",
-      "base": [
+      'dexNumber': '069',
+      'base': [
         50,
         75,
         35,
@@ -836,8 +836,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "070",
-      "base": [
+      'dexNumber': '070',
+      'base': [
         65,
         90,
         50,
@@ -847,8 +847,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "071",
-      "base": [
+      'dexNumber': '071',
+      'base': [
         80,
         105,
         65,
@@ -858,8 +858,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "072",
-      "base": [
+      'dexNumber': '072',
+      'base': [
         40,
         40,
         35,
@@ -869,8 +869,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "073",
-      "base": [
+      'dexNumber': '073',
+      'base': [
         80,
         70,
         65,
@@ -880,8 +880,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "074",
-      "base": [
+      'dexNumber': '074',
+      'base': [
         40,
         80,
         100,
@@ -891,8 +891,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "075",
-      "base": [
+      'dexNumber': '075',
+      'base': [
         55,
         95,
         115,
@@ -902,8 +902,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "076",
-      "base": [
+      'dexNumber': '076',
+      'base': [
         80,
         120,
         130,
@@ -913,8 +913,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "077",
-      "base": [
+      'dexNumber': '077',
+      'base': [
         50,
         85,
         55,
@@ -924,8 +924,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "078",
-      "base": [
+      'dexNumber': '078',
+      'base': [
         65,
         100,
         70,
@@ -935,8 +935,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "079",
-      "base": [
+      'dexNumber': '079',
+      'base': [
         90,
         65,
         65,
@@ -946,8 +946,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "080",
-      "base": [
+      'dexNumber': '080',
+      'base': [
         95,
         75,
         110,
@@ -955,8 +955,8 @@ function getDataList (localizedFormes) {
         80,
         30
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           95,
           75,
           180,
@@ -967,8 +967,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "081",
-      "base": [
+      'dexNumber': '081',
+      'base': [
         25,
         35,
         70,
@@ -978,8 +978,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "082",
-      "base": [
+      'dexNumber': '082',
+      'base': [
         50,
         60,
         95,
@@ -989,8 +989,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "083",
-      "base": [
+      'dexNumber': '083',
+      'base': [
         52,
         65,
         55,
@@ -1000,8 +1000,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "084",
-      "base": [
+      'dexNumber': '084',
+      'base': [
         35,
         85,
         45,
@@ -1011,8 +1011,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "085",
-      "base": [
+      'dexNumber': '085',
+      'base': [
         60,
         110,
         70,
@@ -1022,8 +1022,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "086",
-      "base": [
+      'dexNumber': '086',
+      'base': [
         65,
         45,
         55,
@@ -1033,8 +1033,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "087",
-      "base": [
+      'dexNumber': '087',
+      'base': [
         90,
         70,
         80,
@@ -1044,8 +1044,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "088",
-      "base": [
+      'dexNumber': '088',
+      'base': [
         80,
         80,
         50,
@@ -1055,8 +1055,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "089",
-      "base": [
+      'dexNumber': '089',
+      'base': [
         105,
         105,
         75,
@@ -1066,8 +1066,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "090",
-      "base": [
+      'dexNumber': '090',
+      'base': [
         30,
         65,
         100,
@@ -1077,8 +1077,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "091",
-      "base": [
+      'dexNumber': '091',
+      'base': [
         50,
         95,
         180,
@@ -1088,8 +1088,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "092",
-      "base": [
+      'dexNumber': '092',
+      'base': [
         30,
         35,
         30,
@@ -1099,8 +1099,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "093",
-      "base": [
+      'dexNumber': '093',
+      'base': [
         45,
         50,
         45,
@@ -1110,8 +1110,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "094",
-      "base": [
+      'dexNumber': '094',
+      'base': [
         60,
         65,
         60,
@@ -1119,8 +1119,8 @@ function getDataList (localizedFormes) {
         75,
         110
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           60,
           65,
           80,
@@ -1131,8 +1131,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "095",
-      "base": [
+      'dexNumber': '095',
+      'base': [
         35,
         45,
         160,
@@ -1142,8 +1142,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "096",
-      "base": [
+      'dexNumber': '096',
+      'base': [
         60,
         48,
         45,
@@ -1153,8 +1153,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "097",
-      "base": [
+      'dexNumber': '097',
+      'base': [
         85,
         73,
         70,
@@ -1164,8 +1164,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "098",
-      "base": [
+      'dexNumber': '098',
+      'base': [
         30,
         105,
         90,
@@ -1175,8 +1175,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "099",
-      "base": [
+      'dexNumber': '099',
+      'base': [
         55,
         130,
         115,
@@ -1186,8 +1186,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "100",
-      "base": [
+      'dexNumber': '100',
+      'base': [
         40,
         30,
         50,
@@ -1197,8 +1197,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "101",
-      "base": [
+      'dexNumber': '101',
+      'base': [
         60,
         50,
         70,
@@ -1208,8 +1208,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "102",
-      "base": [
+      'dexNumber': '102',
+      'base': [
         60,
         40,
         80,
@@ -1219,8 +1219,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "103",
-      "base": [
+      'dexNumber': '103',
+      'base': [
         95,
         95,
         85,
@@ -1230,8 +1230,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "104",
-      "base": [
+      'dexNumber': '104',
+      'base': [
         50,
         50,
         95,
@@ -1241,8 +1241,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "105",
-      "base": [
+      'dexNumber': '105',
+      'base': [
         60,
         80,
         110,
@@ -1252,8 +1252,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "106",
-      "base": [
+      'dexNumber': '106',
+      'base': [
         50,
         120,
         53,
@@ -1263,8 +1263,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "107",
-      "base": [
+      'dexNumber': '107',
+      'base': [
         50,
         105,
         79,
@@ -1274,8 +1274,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "108",
-      "base": [
+      'dexNumber': '108',
+      'base': [
         90,
         55,
         75,
@@ -1285,8 +1285,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "109",
-      "base": [
+      'dexNumber': '109',
+      'base': [
         40,
         65,
         95,
@@ -1296,8 +1296,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "110",
-      "base": [
+      'dexNumber': '110',
+      'base': [
         65,
         90,
         120,
@@ -1307,8 +1307,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "111",
-      "base": [
+      'dexNumber': '111',
+      'base': [
         80,
         85,
         95,
@@ -1318,8 +1318,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "112",
-      "base": [
+      'dexNumber': '112',
+      'base': [
         105,
         130,
         120,
@@ -1329,8 +1329,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "113",
-      "base": [
+      'dexNumber': '113',
+      'base': [
         250,
         5,
         5,
@@ -1340,8 +1340,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "114",
-      "base": [
+      'dexNumber': '114',
+      'base': [
         65,
         55,
         115,
@@ -1351,8 +1351,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "115",
-      "base": [
+      'dexNumber': '115',
+      'base': [
         105,
         95,
         80,
@@ -1360,8 +1360,8 @@ function getDataList (localizedFormes) {
         80,
         90
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           105,
           125,
           100,
@@ -1372,8 +1372,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "116",
-      "base": [
+      'dexNumber': '116',
+      'base': [
         30,
         40,
         70,
@@ -1383,8 +1383,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "117",
-      "base": [
+      'dexNumber': '117',
+      'base': [
         55,
         65,
         95,
@@ -1394,8 +1394,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "118",
-      "base": [
+      'dexNumber': '118',
+      'base': [
         45,
         67,
         60,
@@ -1405,8 +1405,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "119",
-      "base": [
+      'dexNumber': '119',
+      'base': [
         80,
         92,
         65,
@@ -1416,8 +1416,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "120",
-      "base": [
+      'dexNumber': '120',
+      'base': [
         30,
         45,
         55,
@@ -1427,8 +1427,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "121",
-      "base": [
+      'dexNumber': '121',
+      'base': [
         60,
         75,
         85,
@@ -1438,8 +1438,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "122",
-      "base": [
+      'dexNumber': '122',
+      'base': [
         40,
         45,
         65,
@@ -1449,8 +1449,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "123",
-      "base": [
+      'dexNumber': '123',
+      'base': [
         70,
         110,
         80,
@@ -1460,8 +1460,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "124",
-      "base": [
+      'dexNumber': '124',
+      'base': [
         65,
         50,
         35,
@@ -1471,8 +1471,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "125",
-      "base": [
+      'dexNumber': '125',
+      'base': [
         65,
         83,
         57,
@@ -1482,8 +1482,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "126",
-      "base": [
+      'dexNumber': '126',
+      'base': [
         65,
         95,
         57,
@@ -1493,8 +1493,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "127",
-      "base": [
+      'dexNumber': '127',
+      'base': [
         65,
         125,
         100,
@@ -1502,8 +1502,8 @@ function getDataList (localizedFormes) {
         70,
         85
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           65,
           155,
           120,
@@ -1514,8 +1514,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "128",
-      "base": [
+      'dexNumber': '128',
+      'base': [
         75,
         100,
         95,
@@ -1525,8 +1525,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "129",
-      "base": [
+      'dexNumber': '129',
+      'base': [
         20,
         10,
         55,
@@ -1536,8 +1536,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "130",
-      "base": [
+      'dexNumber': '130',
+      'base': [
         95,
         125,
         79,
@@ -1545,8 +1545,8 @@ function getDataList (localizedFormes) {
         100,
         81
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           95,
           155,
           109,
@@ -1557,8 +1557,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "131",
-      "base": [
+      'dexNumber': '131',
+      'base': [
         130,
         85,
         80,
@@ -1568,8 +1568,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "132",
-      "base": [
+      'dexNumber': '132',
+      'base': [
         48,
         48,
         48,
@@ -1579,8 +1579,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "133",
-      "base": [
+      'dexNumber': '133',
+      'base': [
         55,
         55,
         50,
@@ -1590,8 +1590,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "134",
-      "base": [
+      'dexNumber': '134',
+      'base': [
         130,
         65,
         60,
@@ -1601,8 +1601,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "135",
-      "base": [
+      'dexNumber': '135',
+      'base': [
         65,
         65,
         60,
@@ -1612,8 +1612,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "136",
-      "base": [
+      'dexNumber': '136',
+      'base': [
         65,
         130,
         60,
@@ -1623,8 +1623,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "137",
-      "base": [
+      'dexNumber': '137',
+      'base': [
         65,
         60,
         70,
@@ -1634,8 +1634,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "138",
-      "base": [
+      'dexNumber': '138',
+      'base': [
         35,
         40,
         100,
@@ -1645,8 +1645,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "139",
-      "base": [
+      'dexNumber': '139',
+      'base': [
         70,
         60,
         125,
@@ -1656,8 +1656,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "140",
-      "base": [
+      'dexNumber': '140',
+      'base': [
         30,
         80,
         90,
@@ -1667,8 +1667,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "141",
-      "base": [
+      'dexNumber': '141',
+      'base': [
         60,
         115,
         105,
@@ -1678,8 +1678,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "142",
-      "base": [
+      'dexNumber': '142',
+      'base': [
         80,
         105,
         65,
@@ -1687,8 +1687,8 @@ function getDataList (localizedFormes) {
         75,
         130
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           135,
           85,
@@ -1699,8 +1699,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "143",
-      "base": [
+      'dexNumber': '143',
+      'base': [
         160,
         110,
         65,
@@ -1710,8 +1710,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "144",
-      "base": [
+      'dexNumber': '144',
+      'base': [
         90,
         85,
         100,
@@ -1721,8 +1721,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "145",
-      "base": [
+      'dexNumber': '145',
+      'base': [
         90,
         90,
         85,
@@ -1732,8 +1732,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "146",
-      "base": [
+      'dexNumber': '146',
+      'base': [
         90,
         100,
         90,
@@ -1743,8 +1743,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "147",
-      "base": [
+      'dexNumber': '147',
+      'base': [
         41,
         64,
         45,
@@ -1754,8 +1754,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "148",
-      "base": [
+      'dexNumber': '148',
+      'base': [
         61,
         84,
         65,
@@ -1765,8 +1765,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "149",
-      "base": [
+      'dexNumber': '149',
+      'base': [
         91,
         134,
         95,
@@ -1776,8 +1776,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "150",
-      "base": [
+      'dexNumber': '150',
+      'base': [
         106,
         110,
         90,
@@ -1785,8 +1785,8 @@ function getDataList (localizedFormes) {
         90,
         130
       ],
-      "otherForme": {
-        "megaX": [
+      'otherForme': {
+        'megaX': [
           106,
           190,
           100,
@@ -1794,7 +1794,7 @@ function getDataList (localizedFormes) {
           100,
           130
         ],
-        "megaY": [
+        'megaY': [
           106,
           150,
           70,
@@ -1805,8 +1805,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "151",
-      "base": [
+      'dexNumber': '151',
+      'base': [
         100,
         100,
         100,
@@ -1816,8 +1816,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "152",
-      "base": [
+      'dexNumber': '152',
+      'base': [
         45,
         49,
         65,
@@ -1827,8 +1827,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "153",
-      "base": [
+      'dexNumber': '153',
+      'base': [
         60,
         62,
         80,
@@ -1838,8 +1838,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "154",
-      "base": [
+      'dexNumber': '154',
+      'base': [
         80,
         82,
         100,
@@ -1849,8 +1849,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "155",
-      "base": [
+      'dexNumber': '155',
+      'base': [
         39,
         52,
         43,
@@ -1860,8 +1860,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "156",
-      "base": [
+      'dexNumber': '156',
+      'base': [
         58,
         64,
         58,
@@ -1871,8 +1871,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "157",
-      "base": [
+      'dexNumber': '157',
+      'base': [
         78,
         84,
         78,
@@ -1882,8 +1882,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "158",
-      "base": [
+      'dexNumber': '158',
+      'base': [
         50,
         65,
         64,
@@ -1893,8 +1893,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "159",
-      "base": [
+      'dexNumber': '159',
+      'base': [
         65,
         80,
         80,
@@ -1904,8 +1904,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "160",
-      "base": [
+      'dexNumber': '160',
+      'base': [
         85,
         105,
         100,
@@ -1915,8 +1915,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "161",
-      "base": [
+      'dexNumber': '161',
+      'base': [
         35,
         46,
         34,
@@ -1926,8 +1926,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "162",
-      "base": [
+      'dexNumber': '162',
+      'base': [
         85,
         76,
         64,
@@ -1937,8 +1937,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "163",
-      "base": [
+      'dexNumber': '163',
+      'base': [
         60,
         30,
         30,
@@ -1948,8 +1948,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "164",
-      "base": [
+      'dexNumber': '164',
+      'base': [
         100,
         50,
         50,
@@ -1959,8 +1959,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "165",
-      "base": [
+      'dexNumber': '165',
+      'base': [
         40,
         20,
         30,
@@ -1970,8 +1970,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "166",
-      "base": [
+      'dexNumber': '166',
+      'base': [
         55,
         35,
         50,
@@ -1981,8 +1981,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "167",
-      "base": [
+      'dexNumber': '167',
+      'base': [
         40,
         60,
         40,
@@ -1992,8 +1992,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "168",
-      "base": [
+      'dexNumber': '168',
+      'base': [
         70,
         90,
         70,
@@ -2003,8 +2003,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "169",
-      "base": [
+      'dexNumber': '169',
+      'base': [
         85,
         90,
         80,
@@ -2014,8 +2014,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "170",
-      "base": [
+      'dexNumber': '170',
+      'base': [
         75,
         38,
         38,
@@ -2025,8 +2025,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "171",
-      "base": [
+      'dexNumber': '171',
+      'base': [
         125,
         58,
         58,
@@ -2036,8 +2036,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "172",
-      "base": [
+      'dexNumber': '172',
+      'base': [
         20,
         40,
         15,
@@ -2047,8 +2047,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "173",
-      "base": [
+      'dexNumber': '173',
+      'base': [
         50,
         25,
         28,
@@ -2058,8 +2058,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "174",
-      "base": [
+      'dexNumber': '174',
+      'base': [
         90,
         30,
         15,
@@ -2069,8 +2069,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "175",
-      "base": [
+      'dexNumber': '175',
+      'base': [
         35,
         20,
         65,
@@ -2080,8 +2080,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "176",
-      "base": [
+      'dexNumber': '176',
+      'base': [
         55,
         40,
         85,
@@ -2091,8 +2091,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "177",
-      "base": [
+      'dexNumber': '177',
+      'base': [
         40,
         50,
         45,
@@ -2102,8 +2102,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "178",
-      "base": [
+      'dexNumber': '178',
+      'base': [
         65,
         75,
         70,
@@ -2113,8 +2113,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "179",
-      "base": [
+      'dexNumber': '179',
+      'base': [
         55,
         40,
         40,
@@ -2124,8 +2124,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "180",
-      "base": [
+      'dexNumber': '180',
+      'base': [
         70,
         55,
         55,
@@ -2135,8 +2135,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "181",
-      "base": [
+      'dexNumber': '181',
+      'base': [
         90,
         75,
         85,
@@ -2144,8 +2144,8 @@ function getDataList (localizedFormes) {
         90,
         55
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           90,
           95,
           105,
@@ -2156,8 +2156,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "182",
-      "base": [
+      'dexNumber': '182',
+      'base': [
         75,
         80,
         95,
@@ -2167,8 +2167,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "183",
-      "base": [
+      'dexNumber': '183',
+      'base': [
         70,
         20,
         50,
@@ -2178,8 +2178,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "184",
-      "base": [
+      'dexNumber': '184',
+      'base': [
         100,
         50,
         80,
@@ -2189,8 +2189,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "185",
-      "base": [
+      'dexNumber': '185',
+      'base': [
         70,
         100,
         115,
@@ -2200,8 +2200,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "186",
-      "base": [
+      'dexNumber': '186',
+      'base': [
         90,
         75,
         75,
@@ -2211,8 +2211,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "187",
-      "base": [
+      'dexNumber': '187',
+      'base': [
         35,
         35,
         40,
@@ -2222,8 +2222,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "188",
-      "base": [
+      'dexNumber': '188',
+      'base': [
         55,
         45,
         50,
@@ -2233,8 +2233,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "189",
-      "base": [
+      'dexNumber': '189',
+      'base': [
         75,
         55,
         70,
@@ -2244,8 +2244,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "190",
-      "base": [
+      'dexNumber': '190',
+      'base': [
         55,
         70,
         55,
@@ -2255,8 +2255,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "191",
-      "base": [
+      'dexNumber': '191',
+      'base': [
         30,
         30,
         30,
@@ -2266,8 +2266,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "192",
-      "base": [
+      'dexNumber': '192',
+      'base': [
         75,
         75,
         55,
@@ -2277,8 +2277,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "193",
-      "base": [
+      'dexNumber': '193',
+      'base': [
         65,
         65,
         45,
@@ -2288,8 +2288,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "194",
-      "base": [
+      'dexNumber': '194',
+      'base': [
         55,
         45,
         45,
@@ -2299,8 +2299,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "195",
-      "base": [
+      'dexNumber': '195',
+      'base': [
         95,
         85,
         85,
@@ -2310,8 +2310,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "196",
-      "base": [
+      'dexNumber': '196',
+      'base': [
         65,
         65,
         60,
@@ -2321,8 +2321,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "197",
-      "base": [
+      'dexNumber': '197',
+      'base': [
         95,
         65,
         110,
@@ -2332,8 +2332,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "198",
-      "base": [
+      'dexNumber': '198',
+      'base': [
         60,
         85,
         42,
@@ -2343,8 +2343,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "199",
-      "base": [
+      'dexNumber': '199',
+      'base': [
         95,
         75,
         80,
@@ -2354,8 +2354,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "200",
-      "base": [
+      'dexNumber': '200',
+      'base': [
         60,
         60,
         60,
@@ -2365,8 +2365,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "201",
-      "base": [
+      'dexNumber': '201',
+      'base': [
         48,
         72,
         48,
@@ -2376,8 +2376,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "202",
-      "base": [
+      'dexNumber': '202',
+      'base': [
         190,
         33,
         58,
@@ -2387,8 +2387,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "203",
-      "base": [
+      'dexNumber': '203',
+      'base': [
         70,
         80,
         65,
@@ -2398,8 +2398,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "204",
-      "base": [
+      'dexNumber': '204',
+      'base': [
         50,
         65,
         90,
@@ -2409,8 +2409,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "205",
-      "base": [
+      'dexNumber': '205',
+      'base': [
         75,
         90,
         140,
@@ -2420,8 +2420,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "206",
-      "base": [
+      'dexNumber': '206',
+      'base': [
         100,
         70,
         70,
@@ -2431,8 +2431,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "207",
-      "base": [
+      'dexNumber': '207',
+      'base': [
         65,
         75,
         105,
@@ -2442,8 +2442,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "208",
-      "base": [
+      'dexNumber': '208',
+      'base': [
         75,
         85,
         200,
@@ -2451,8 +2451,8 @@ function getDataList (localizedFormes) {
         65,
         30
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           75,
           125,
           230,
@@ -2463,8 +2463,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "209",
-      "base": [
+      'dexNumber': '209',
+      'base': [
         60,
         80,
         50,
@@ -2474,8 +2474,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "210",
-      "base": [
+      'dexNumber': '210',
+      'base': [
         90,
         120,
         75,
@@ -2485,8 +2485,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "211",
-      "base": [
+      'dexNumber': '211',
+      'base': [
         65,
         95,
         75,
@@ -2496,8 +2496,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "212",
-      "base": [
+      'dexNumber': '212',
+      'base': [
         70,
         130,
         100,
@@ -2505,8 +2505,8 @@ function getDataList (localizedFormes) {
         80,
         65
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           150,
           140,
@@ -2517,8 +2517,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "213",
-      "base": [
+      'dexNumber': '213',
+      'base': [
         20,
         10,
         230,
@@ -2528,8 +2528,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "214",
-      "base": [
+      'dexNumber': '214',
+      'base': [
         80,
         125,
         75,
@@ -2537,8 +2537,8 @@ function getDataList (localizedFormes) {
         95,
         85
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           185,
           115,
@@ -2549,8 +2549,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "215",
-      "base": [
+      'dexNumber': '215',
+      'base': [
         55,
         95,
         55,
@@ -2560,8 +2560,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "216",
-      "base": [
+      'dexNumber': '216',
+      'base': [
         60,
         80,
         50,
@@ -2571,8 +2571,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "217",
-      "base": [
+      'dexNumber': '217',
+      'base': [
         90,
         130,
         75,
@@ -2582,8 +2582,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "218",
-      "base": [
+      'dexNumber': '218',
+      'base': [
         40,
         40,
         40,
@@ -2593,8 +2593,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "219",
-      "base": [
+      'dexNumber': '219',
+      'base': [
         50,
         50,
         120,
@@ -2604,8 +2604,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "220",
-      "base": [
+      'dexNumber': '220',
+      'base': [
         50,
         50,
         40,
@@ -2615,8 +2615,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "221",
-      "base": [
+      'dexNumber': '221',
+      'base': [
         100,
         100,
         80,
@@ -2626,8 +2626,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "222",
-      "base": [
+      'dexNumber': '222',
+      'base': [
         55,
         55,
         85,
@@ -2637,8 +2637,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "223",
-      "base": [
+      'dexNumber': '223',
+      'base': [
         35,
         65,
         35,
@@ -2648,8 +2648,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "224",
-      "base": [
+      'dexNumber': '224',
+      'base': [
         75,
         105,
         75,
@@ -2659,8 +2659,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "225",
-      "base": [
+      'dexNumber': '225',
+      'base': [
         45,
         55,
         45,
@@ -2670,8 +2670,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "226",
-      "base": [
+      'dexNumber': '226',
+      'base': [
         65,
         40,
         70,
@@ -2681,8 +2681,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "227",
-      "base": [
+      'dexNumber': '227',
+      'base': [
         65,
         80,
         140,
@@ -2692,8 +2692,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "228",
-      "base": [
+      'dexNumber': '228',
+      'base': [
         45,
         60,
         30,
@@ -2703,8 +2703,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "229",
-      "base": [
+      'dexNumber': '229',
+      'base': [
         75,
         90,
         50,
@@ -2712,8 +2712,8 @@ function getDataList (localizedFormes) {
         80,
         95
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           75,
           90,
           90,
@@ -2724,8 +2724,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "230",
-      "base": [
+      'dexNumber': '230',
+      'base': [
         75,
         95,
         95,
@@ -2735,8 +2735,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "231",
-      "base": [
+      'dexNumber': '231',
+      'base': [
         90,
         60,
         60,
@@ -2746,8 +2746,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "232",
-      "base": [
+      'dexNumber': '232',
+      'base': [
         90,
         120,
         120,
@@ -2757,8 +2757,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "233",
-      "base": [
+      'dexNumber': '233',
+      'base': [
         85,
         80,
         90,
@@ -2768,8 +2768,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "234",
-      "base": [
+      'dexNumber': '234',
+      'base': [
         73,
         95,
         62,
@@ -2779,8 +2779,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "235",
-      "base": [
+      'dexNumber': '235',
+      'base': [
         55,
         20,
         35,
@@ -2790,8 +2790,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "236",
-      "base": [
+      'dexNumber': '236',
+      'base': [
         35,
         35,
         35,
@@ -2801,8 +2801,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "237",
-      "base": [
+      'dexNumber': '237',
+      'base': [
         50,
         95,
         95,
@@ -2812,8 +2812,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "238",
-      "base": [
+      'dexNumber': '238',
+      'base': [
         45,
         30,
         15,
@@ -2823,8 +2823,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "239",
-      "base": [
+      'dexNumber': '239',
+      'base': [
         45,
         63,
         37,
@@ -2834,8 +2834,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "240",
-      "base": [
+      'dexNumber': '240',
+      'base': [
         45,
         75,
         37,
@@ -2845,8 +2845,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "241",
-      "base": [
+      'dexNumber': '241',
+      'base': [
         95,
         80,
         105,
@@ -2856,8 +2856,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "242",
-      "base": [
+      'dexNumber': '242',
+      'base': [
         255,
         10,
         10,
@@ -2867,8 +2867,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "243",
-      "base": [
+      'dexNumber': '243',
+      'base': [
         90,
         85,
         75,
@@ -2878,8 +2878,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "244",
-      "base": [
+      'dexNumber': '244',
+      'base': [
         115,
         115,
         85,
@@ -2889,8 +2889,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "245",
-      "base": [
+      'dexNumber': '245',
+      'base': [
         100,
         75,
         115,
@@ -2900,8 +2900,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "246",
-      "base": [
+      'dexNumber': '246',
+      'base': [
         50,
         64,
         50,
@@ -2911,8 +2911,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "247",
-      "base": [
+      'dexNumber': '247',
+      'base': [
         70,
         84,
         70,
@@ -2922,8 +2922,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "248",
-      "base": [
+      'dexNumber': '248',
+      'base': [
         100,
         134,
         110,
@@ -2931,8 +2931,8 @@ function getDataList (localizedFormes) {
         100,
         61
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           100,
           164,
           150,
@@ -2943,8 +2943,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "249",
-      "base": [
+      'dexNumber': '249',
+      'base': [
         106,
         90,
         130,
@@ -2954,8 +2954,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "250",
-      "base": [
+      'dexNumber': '250',
+      'base': [
         106,
         130,
         90,
@@ -2965,8 +2965,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "251",
-      "base": [
+      'dexNumber': '251',
+      'base': [
         100,
         100,
         100,
@@ -2976,8 +2976,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "252",
-      "base": [
+      'dexNumber': '252',
+      'base': [
         40,
         45,
         35,
@@ -2987,8 +2987,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "253",
-      "base": [
+      'dexNumber': '253',
+      'base': [
         50,
         65,
         45,
@@ -2998,8 +2998,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "254",
-      "base": [
+      'dexNumber': '254',
+      'base': [
         70,
         85,
         65,
@@ -3007,8 +3007,8 @@ function getDataList (localizedFormes) {
         85,
         120
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           110,
           75,
@@ -3019,8 +3019,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "255",
-      "base": [
+      'dexNumber': '255',
+      'base': [
         45,
         60,
         40,
@@ -3030,8 +3030,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "256",
-      "base": [
+      'dexNumber': '256',
+      'base': [
         60,
         85,
         60,
@@ -3041,8 +3041,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "257",
-      "base": [
+      'dexNumber': '257',
+      'base': [
         80,
         120,
         70,
@@ -3050,8 +3050,8 @@ function getDataList (localizedFormes) {
         70,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           160,
           80,
@@ -3062,8 +3062,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "258",
-      "base": [
+      'dexNumber': '258',
+      'base': [
         50,
         70,
         50,
@@ -3073,8 +3073,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "259",
-      "base": [
+      'dexNumber': '259',
+      'base': [
         70,
         85,
         70,
@@ -3084,8 +3084,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "260",
-      "base": [
+      'dexNumber': '260',
+      'base': [
         100,
         110,
         90,
@@ -3093,8 +3093,8 @@ function getDataList (localizedFormes) {
         90,
         60
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           100,
           150,
           110,
@@ -3105,8 +3105,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "261",
-      "base": [
+      'dexNumber': '261',
+      'base': [
         35,
         55,
         35,
@@ -3116,8 +3116,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "262",
-      "base": [
+      'dexNumber': '262',
+      'base': [
         70,
         90,
         70,
@@ -3127,8 +3127,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "263",
-      "base": [
+      'dexNumber': '263',
+      'base': [
         38,
         30,
         41,
@@ -3138,8 +3138,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "264",
-      "base": [
+      'dexNumber': '264',
+      'base': [
         78,
         70,
         61,
@@ -3149,8 +3149,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "265",
-      "base": [
+      'dexNumber': '265',
+      'base': [
         45,
         45,
         35,
@@ -3160,8 +3160,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "266",
-      "base": [
+      'dexNumber': '266',
+      'base': [
         50,
         35,
         55,
@@ -3171,8 +3171,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "267",
-      "base": [
+      'dexNumber': '267',
+      'base': [
         60,
         70,
         50,
@@ -3182,8 +3182,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "268",
-      "base": [
+      'dexNumber': '268',
+      'base': [
         50,
         35,
         55,
@@ -3193,8 +3193,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "269",
-      "base": [
+      'dexNumber': '269',
+      'base': [
         60,
         50,
         70,
@@ -3204,8 +3204,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "270",
-      "base": [
+      'dexNumber': '270',
+      'base': [
         40,
         30,
         30,
@@ -3215,8 +3215,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "271",
-      "base": [
+      'dexNumber': '271',
+      'base': [
         60,
         50,
         50,
@@ -3226,8 +3226,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "272",
-      "base": [
+      'dexNumber': '272',
+      'base': [
         80,
         70,
         70,
@@ -3237,8 +3237,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "273",
-      "base": [
+      'dexNumber': '273',
+      'base': [
         40,
         40,
         50,
@@ -3248,8 +3248,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "274",
-      "base": [
+      'dexNumber': '274',
+      'base': [
         70,
         70,
         40,
@@ -3259,8 +3259,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "275",
-      "base": [
+      'dexNumber': '275',
+      'base': [
         90,
         100,
         60,
@@ -3270,8 +3270,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "276",
-      "base": [
+      'dexNumber': '276',
+      'base': [
         40,
         55,
         30,
@@ -3281,8 +3281,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "277",
-      "base": [
+      'dexNumber': '277',
+      'base': [
         60,
         85,
         60,
@@ -3292,8 +3292,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "278",
-      "base": [
+      'dexNumber': '278',
+      'base': [
         40,
         30,
         30,
@@ -3303,8 +3303,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "279",
-      "base": [
+      'dexNumber': '279',
+      'base': [
         60,
         50,
         100,
@@ -3314,8 +3314,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "280",
-      "base": [
+      'dexNumber': '280',
+      'base': [
         28,
         25,
         25,
@@ -3325,8 +3325,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "281",
-      "base": [
+      'dexNumber': '281',
+      'base': [
         38,
         35,
         35,
@@ -3336,8 +3336,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "282",
-      "base": [
+      'dexNumber': '282',
+      'base': [
         68,
         65,
         65,
@@ -3345,8 +3345,8 @@ function getDataList (localizedFormes) {
         115,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           68,
           85,
           65,
@@ -3357,8 +3357,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "283",
-      "base": [
+      'dexNumber': '283',
+      'base': [
         40,
         30,
         32,
@@ -3368,8 +3368,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "284",
-      "base": [
+      'dexNumber': '284',
+      'base': [
         70,
         60,
         62,
@@ -3379,8 +3379,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "285",
-      "base": [
+      'dexNumber': '285',
+      'base': [
         60,
         40,
         60,
@@ -3390,8 +3390,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "286",
-      "base": [
+      'dexNumber': '286',
+      'base': [
         60,
         130,
         80,
@@ -3401,8 +3401,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "287",
-      "base": [
+      'dexNumber': '287',
+      'base': [
         60,
         60,
         60,
@@ -3412,8 +3412,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "288",
-      "base": [
+      'dexNumber': '288',
+      'base': [
         80,
         80,
         80,
@@ -3423,8 +3423,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "289",
-      "base": [
+      'dexNumber': '289',
+      'base': [
         150,
         160,
         100,
@@ -3434,8 +3434,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "290",
-      "base": [
+      'dexNumber': '290',
+      'base': [
         31,
         45,
         90,
@@ -3445,8 +3445,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "291",
-      "base": [
+      'dexNumber': '291',
+      'base': [
         61,
         90,
         45,
@@ -3456,8 +3456,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "292",
-      "base": [
+      'dexNumber': '292',
+      'base': [
         1,
         90,
         45,
@@ -3467,8 +3467,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "293",
-      "base": [
+      'dexNumber': '293',
+      'base': [
         64,
         51,
         23,
@@ -3478,8 +3478,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "294",
-      "base": [
+      'dexNumber': '294',
+      'base': [
         84,
         71,
         43,
@@ -3489,8 +3489,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "295",
-      "base": [
+      'dexNumber': '295',
+      'base': [
         104,
         91,
         63,
@@ -3500,8 +3500,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "296",
-      "base": [
+      'dexNumber': '296',
+      'base': [
         72,
         60,
         30,
@@ -3511,8 +3511,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "297",
-      "base": [
+      'dexNumber': '297',
+      'base': [
         144,
         120,
         60,
@@ -3522,8 +3522,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "298",
-      "base": [
+      'dexNumber': '298',
+      'base': [
         50,
         20,
         40,
@@ -3533,8 +3533,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "299",
-      "base": [
+      'dexNumber': '299',
+      'base': [
         30,
         45,
         135,
@@ -3544,8 +3544,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "300",
-      "base": [
+      'dexNumber': '300',
+      'base': [
         50,
         45,
         45,
@@ -3555,8 +3555,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "301",
-      "base": [
+      'dexNumber': '301',
+      'base': [
         70,
         65,
         65,
@@ -3566,8 +3566,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "302",
-      "base": [
+      'dexNumber': '302',
+      'base': [
         50,
         75,
         75,
@@ -3575,8 +3575,8 @@ function getDataList (localizedFormes) {
         65,
         50
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           50,
           85,
           125,
@@ -3587,8 +3587,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "303",
-      "base": [
+      'dexNumber': '303',
+      'base': [
         50,
         85,
         85,
@@ -3596,8 +3596,8 @@ function getDataList (localizedFormes) {
         55,
         50
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           50,
           105,
           125,
@@ -3608,8 +3608,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "304",
-      "base": [
+      'dexNumber': '304',
+      'base': [
         50,
         70,
         100,
@@ -3619,8 +3619,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "305",
-      "base": [
+      'dexNumber': '305',
+      'base': [
         60,
         90,
         140,
@@ -3630,8 +3630,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "306",
-      "base": [
+      'dexNumber': '306',
+      'base': [
         70,
         110,
         180,
@@ -3639,8 +3639,8 @@ function getDataList (localizedFormes) {
         60,
         50
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           140,
           230,
@@ -3651,8 +3651,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "307",
-      "base": [
+      'dexNumber': '307',
+      'base': [
         30,
         40,
         55,
@@ -3662,8 +3662,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "308",
-      "base": [
+      'dexNumber': '308',
+      'base': [
         60,
         60,
         75,
@@ -3671,8 +3671,8 @@ function getDataList (localizedFormes) {
         75,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           60,
           100,
           85,
@@ -3683,8 +3683,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "309",
-      "base": [
+      'dexNumber': '309',
+      'base': [
         40,
         45,
         40,
@@ -3694,8 +3694,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "310",
-      "base": [
+      'dexNumber': '310',
+      'base': [
         70,
         75,
         60,
@@ -3703,8 +3703,8 @@ function getDataList (localizedFormes) {
         60,
         105
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           75,
           80,
@@ -3715,8 +3715,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "311",
-      "base": [
+      'dexNumber': '311',
+      'base': [
         60,
         50,
         40,
@@ -3726,8 +3726,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "312",
-      "base": [
+      'dexNumber': '312',
+      'base': [
         60,
         40,
         50,
@@ -3737,8 +3737,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "313",
-      "base": [
+      'dexNumber': '313',
+      'base': [
         65,
         73,
         55,
@@ -3748,8 +3748,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "314",
-      "base": [
+      'dexNumber': '314',
+      'base': [
         65,
         47,
         55,
@@ -3759,8 +3759,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "315",
-      "base": [
+      'dexNumber': '315',
+      'base': [
         50,
         60,
         45,
@@ -3770,8 +3770,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "316",
-      "base": [
+      'dexNumber': '316',
+      'base': [
         70,
         43,
         53,
@@ -3781,8 +3781,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "317",
-      "base": [
+      'dexNumber': '317',
+      'base': [
         100,
         73,
         83,
@@ -3792,8 +3792,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "318",
-      "base": [
+      'dexNumber': '318',
+      'base': [
         45,
         90,
         20,
@@ -3803,8 +3803,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "319",
-      "base": [
+      'dexNumber': '319',
+      'base': [
         70,
         120,
         40,
@@ -3812,8 +3812,8 @@ function getDataList (localizedFormes) {
         40,
         95
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           140,
           70,
@@ -3824,8 +3824,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "320",
-      "base": [
+      'dexNumber': '320',
+      'base': [
         130,
         70,
         35,
@@ -3835,8 +3835,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "321",
-      "base": [
+      'dexNumber': '321',
+      'base': [
         170,
         90,
         45,
@@ -3846,8 +3846,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "322",
-      "base": [
+      'dexNumber': '322',
+      'base': [
         60,
         60,
         40,
@@ -3857,8 +3857,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "323",
-      "base": [
+      'dexNumber': '323',
+      'base': [
         70,
         100,
         70,
@@ -3866,8 +3866,8 @@ function getDataList (localizedFormes) {
         75,
         40
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           120,
           100,
@@ -3878,8 +3878,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "324",
-      "base": [
+      'dexNumber': '324',
+      'base': [
         70,
         85,
         140,
@@ -3889,8 +3889,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "325",
-      "base": [
+      'dexNumber': '325',
+      'base': [
         60,
         25,
         35,
@@ -3900,8 +3900,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "326",
-      "base": [
+      'dexNumber': '326',
+      'base': [
         80,
         45,
         65,
@@ -3911,8 +3911,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "327",
-      "base": [
+      'dexNumber': '327',
+      'base': [
         60,
         60,
         60,
@@ -3922,8 +3922,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "328",
-      "base": [
+      'dexNumber': '328',
+      'base': [
         45,
         100,
         45,
@@ -3933,8 +3933,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "329",
-      "base": [
+      'dexNumber': '329',
+      'base': [
         50,
         70,
         50,
@@ -3944,8 +3944,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "330",
-      "base": [
+      'dexNumber': '330',
+      'base': [
         80,
         100,
         80,
@@ -3955,8 +3955,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "331",
-      "base": [
+      'dexNumber': '331',
+      'base': [
         50,
         85,
         40,
@@ -3966,8 +3966,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "332",
-      "base": [
+      'dexNumber': '332',
+      'base': [
         70,
         115,
         60,
@@ -3977,8 +3977,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "333",
-      "base": [
+      'dexNumber': '333',
+      'base': [
         45,
         40,
         60,
@@ -3988,8 +3988,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "334",
-      "base": [
+      'dexNumber': '334',
+      'base': [
         75,
         70,
         90,
@@ -3997,8 +3997,8 @@ function getDataList (localizedFormes) {
         105,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           75,
           110,
           110,
@@ -4009,8 +4009,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "335",
-      "base": [
+      'dexNumber': '335',
+      'base': [
         73,
         115,
         60,
@@ -4020,8 +4020,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "336",
-      "base": [
+      'dexNumber': '336',
+      'base': [
         73,
         100,
         60,
@@ -4031,8 +4031,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "337",
-      "base": [
+      'dexNumber': '337',
+      'base': [
         70,
         55,
         65,
@@ -4042,8 +4042,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "338",
-      "base": [
+      'dexNumber': '338',
+      'base': [
         70,
         95,
         85,
@@ -4053,8 +4053,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "339",
-      "base": [
+      'dexNumber': '339',
+      'base': [
         50,
         48,
         43,
@@ -4064,8 +4064,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "340",
-      "base": [
+      'dexNumber': '340',
+      'base': [
         110,
         78,
         73,
@@ -4075,8 +4075,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "341",
-      "base": [
+      'dexNumber': '341',
+      'base': [
         43,
         80,
         65,
@@ -4086,8 +4086,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "342",
-      "base": [
+      'dexNumber': '342',
+      'base': [
         63,
         120,
         85,
@@ -4097,8 +4097,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "343",
-      "base": [
+      'dexNumber': '343',
+      'base': [
         40,
         40,
         55,
@@ -4108,8 +4108,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "344",
-      "base": [
+      'dexNumber': '344',
+      'base': [
         60,
         70,
         105,
@@ -4119,8 +4119,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "345",
-      "base": [
+      'dexNumber': '345',
+      'base': [
         66,
         41,
         77,
@@ -4130,8 +4130,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "346",
-      "base": [
+      'dexNumber': '346',
+      'base': [
         86,
         81,
         97,
@@ -4141,8 +4141,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "347",
-      "base": [
+      'dexNumber': '347',
+      'base': [
         45,
         95,
         50,
@@ -4152,8 +4152,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "348",
-      "base": [
+      'dexNumber': '348',
+      'base': [
         75,
         125,
         100,
@@ -4163,8 +4163,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "349",
-      "base": [
+      'dexNumber': '349',
+      'base': [
         20,
         15,
         20,
@@ -4174,8 +4174,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "350",
-      "base": [
+      'dexNumber': '350',
+      'base': [
         95,
         60,
         79,
@@ -4185,8 +4185,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "351",
-      "base": [
+      'dexNumber': '351',
+      'base': [
         70,
         70,
         70,
@@ -4196,8 +4196,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "352",
-      "base": [
+      'dexNumber': '352',
+      'base': [
         60,
         90,
         70,
@@ -4207,8 +4207,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "353",
-      "base": [
+      'dexNumber': '353',
+      'base': [
         44,
         75,
         35,
@@ -4218,8 +4218,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "354",
-      "base": [
+      'dexNumber': '354',
+      'base': [
         64,
         115,
         65,
@@ -4227,8 +4227,8 @@ function getDataList (localizedFormes) {
         63,
         65
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           64,
           165,
           75,
@@ -4239,8 +4239,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "355",
-      "base": [
+      'dexNumber': '355',
+      'base': [
         20,
         40,
         90,
@@ -4250,8 +4250,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "356",
-      "base": [
+      'dexNumber': '356',
+      'base': [
         40,
         70,
         130,
@@ -4261,8 +4261,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "357",
-      "base": [
+      'dexNumber': '357',
+      'base': [
         99,
         68,
         83,
@@ -4272,8 +4272,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "358",
-      "base": [
+      'dexNumber': '358',
+      'base': [
         65,
         50,
         70,
@@ -4283,8 +4283,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "359",
-      "base": [
+      'dexNumber': '359',
+      'base': [
         65,
         130,
         60,
@@ -4292,8 +4292,8 @@ function getDataList (localizedFormes) {
         60,
         75
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           65,
           150,
           60,
@@ -4304,8 +4304,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "360",
-      "base": [
+      'dexNumber': '360',
+      'base': [
         95,
         23,
         48,
@@ -4315,8 +4315,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "361",
-      "base": [
+      'dexNumber': '361',
+      'base': [
         50,
         50,
         50,
@@ -4326,8 +4326,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "362",
-      "base": [
+      'dexNumber': '362',
+      'base': [
         80,
         80,
         80,
@@ -4335,8 +4335,8 @@ function getDataList (localizedFormes) {
         80,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           120,
           80,
@@ -4347,8 +4347,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "363",
-      "base": [
+      'dexNumber': '363',
+      'base': [
         70,
         40,
         50,
@@ -4358,8 +4358,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "364",
-      "base": [
+      'dexNumber': '364',
+      'base': [
         90,
         60,
         70,
@@ -4369,8 +4369,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "365",
-      "base": [
+      'dexNumber': '365',
+      'base': [
         110,
         80,
         90,
@@ -4380,8 +4380,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "366",
-      "base": [
+      'dexNumber': '366',
+      'base': [
         35,
         64,
         85,
@@ -4391,8 +4391,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "367",
-      "base": [
+      'dexNumber': '367',
+      'base': [
         55,
         104,
         105,
@@ -4402,8 +4402,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "368",
-      "base": [
+      'dexNumber': '368',
+      'base': [
         55,
         84,
         105,
@@ -4413,8 +4413,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "369",
-      "base": [
+      'dexNumber': '369',
+      'base': [
         100,
         90,
         130,
@@ -4424,8 +4424,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "370",
-      "base": [
+      'dexNumber': '370',
+      'base': [
         43,
         30,
         55,
@@ -4435,8 +4435,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "371",
-      "base": [
+      'dexNumber': '371',
+      'base': [
         45,
         75,
         60,
@@ -4446,8 +4446,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "372",
-      "base": [
+      'dexNumber': '372',
+      'base': [
         65,
         95,
         100,
@@ -4457,8 +4457,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "373",
-      "base": [
+      'dexNumber': '373',
+      'base': [
         95,
         135,
         80,
@@ -4466,8 +4466,8 @@ function getDataList (localizedFormes) {
         80,
         100
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           95,
           145,
           130,
@@ -4478,8 +4478,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "374",
-      "base": [
+      'dexNumber': '374',
+      'base': [
         40,
         55,
         80,
@@ -4489,8 +4489,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "375",
-      "base": [
+      'dexNumber': '375',
+      'base': [
         60,
         75,
         100,
@@ -4500,8 +4500,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "376",
-      "base": [
+      'dexNumber': '376',
+      'base': [
         80,
         135,
         130,
@@ -4509,8 +4509,8 @@ function getDataList (localizedFormes) {
         90,
         70
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           145,
           150,
@@ -4521,8 +4521,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "377",
-      "base": [
+      'dexNumber': '377',
+      'base': [
         80,
         100,
         200,
@@ -4532,8 +4532,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "378",
-      "base": [
+      'dexNumber': '378',
+      'base': [
         80,
         50,
         100,
@@ -4543,8 +4543,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "379",
-      "base": [
+      'dexNumber': '379',
+      'base': [
         80,
         75,
         150,
@@ -4554,8 +4554,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "380",
-      "base": [
+      'dexNumber': '380',
+      'base': [
         80,
         80,
         90,
@@ -4563,8 +4563,8 @@ function getDataList (localizedFormes) {
         130,
         110
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           100,
           120,
@@ -4575,8 +4575,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "381",
-      "base": [
+      'dexNumber': '381',
+      'base': [
         80,
         90,
         80,
@@ -4584,8 +4584,8 @@ function getDataList (localizedFormes) {
         110,
         110
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           80,
           130,
           100,
@@ -4596,8 +4596,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "382",
-      "base": [
+      'dexNumber': '382',
+      'base': [
         100,
         100,
         90,
@@ -4605,8 +4605,8 @@ function getDataList (localizedFormes) {
         140,
         90
       ],
-      "otherForme": {
-        "primal": [
+      'otherForme': {
+        'primal': [
           100,
           150,
           90,
@@ -4617,8 +4617,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "383",
-      "base": [
+      'dexNumber': '383',
+      'base': [
         100,
         150,
         140,
@@ -4626,8 +4626,8 @@ function getDataList (localizedFormes) {
         90,
         90
       ],
-      "otherForme": {
-        "primal": [
+      'otherForme': {
+        'primal': [
           100,
           180,
           160,
@@ -4638,8 +4638,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "384",
-      "base": [
+      'dexNumber': '384',
+      'base': [
         105,
         150,
         90,
@@ -4647,8 +4647,8 @@ function getDataList (localizedFormes) {
         90,
         95
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           105,
           180,
           100,
@@ -4659,8 +4659,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "385",
-      "base": [
+      'dexNumber': '385',
+      'base': [
         100,
         100,
         100,
@@ -4670,8 +4670,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "386",
-      "base": [
+      'dexNumber': '386',
+      'base': [
         50,
         150,
         50,
@@ -4679,8 +4679,8 @@ function getDataList (localizedFormes) {
         50,
         150
       ],
-      "otherForme": {
-        "attack": [
+      'otherForme': {
+        'attack': [
           50,
           180,
           20,
@@ -4688,7 +4688,7 @@ function getDataList (localizedFormes) {
           20,
           150
         ],
-        "defense": [
+        'defense': [
           50,
           70,
           160,
@@ -4696,7 +4696,7 @@ function getDataList (localizedFormes) {
           160,
           90
         ],
-        "speed": [
+        'speed': [
           50,
           95,
           90,
@@ -4707,8 +4707,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "387",
-      "base": [
+      'dexNumber': '387',
+      'base': [
         55,
         68,
         64,
@@ -4718,8 +4718,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "388",
-      "base": [
+      'dexNumber': '388',
+      'base': [
         75,
         89,
         85,
@@ -4729,8 +4729,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "389",
-      "base": [
+      'dexNumber': '389',
+      'base': [
         95,
         109,
         105,
@@ -4740,8 +4740,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "390",
-      "base": [
+      'dexNumber': '390',
+      'base': [
         44,
         58,
         44,
@@ -4751,8 +4751,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "391",
-      "base": [
+      'dexNumber': '391',
+      'base': [
         64,
         78,
         52,
@@ -4762,8 +4762,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "392",
-      "base": [
+      'dexNumber': '392',
+      'base': [
         76,
         104,
         71,
@@ -4773,8 +4773,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "393",
-      "base": [
+      'dexNumber': '393',
+      'base': [
         53,
         51,
         53,
@@ -4784,8 +4784,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "394",
-      "base": [
+      'dexNumber': '394',
+      'base': [
         64,
         66,
         68,
@@ -4795,8 +4795,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "395",
-      "base": [
+      'dexNumber': '395',
+      'base': [
         84,
         86,
         88,
@@ -4806,8 +4806,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "396",
-      "base": [
+      'dexNumber': '396',
+      'base': [
         40,
         55,
         30,
@@ -4817,8 +4817,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "397",
-      "base": [
+      'dexNumber': '397',
+      'base': [
         55,
         75,
         50,
@@ -4828,8 +4828,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "398",
-      "base": [
+      'dexNumber': '398',
+      'base': [
         85,
         120,
         70,
@@ -4839,8 +4839,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "399",
-      "base": [
+      'dexNumber': '399',
+      'base': [
         59,
         45,
         40,
@@ -4850,8 +4850,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "400",
-      "base": [
+      'dexNumber': '400',
+      'base': [
         79,
         85,
         60,
@@ -4861,8 +4861,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "401",
-      "base": [
+      'dexNumber': '401',
+      'base': [
         37,
         25,
         41,
@@ -4872,8 +4872,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "402",
-      "base": [
+      'dexNumber': '402',
+      'base': [
         77,
         85,
         51,
@@ -4883,8 +4883,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "403",
-      "base": [
+      'dexNumber': '403',
+      'base': [
         45,
         65,
         34,
@@ -4894,8 +4894,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "404",
-      "base": [
+      'dexNumber': '404',
+      'base': [
         60,
         85,
         49,
@@ -4905,8 +4905,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "405",
-      "base": [
+      'dexNumber': '405',
+      'base': [
         80,
         120,
         79,
@@ -4916,8 +4916,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "406",
-      "base": [
+      'dexNumber': '406',
+      'base': [
         40,
         30,
         35,
@@ -4927,8 +4927,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "407",
-      "base": [
+      'dexNumber': '407',
+      'base': [
         60,
         70,
         65,
@@ -4938,8 +4938,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "408",
-      "base": [
+      'dexNumber': '408',
+      'base': [
         67,
         125,
         40,
@@ -4949,8 +4949,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "409",
-      "base": [
+      'dexNumber': '409',
+      'base': [
         97,
         165,
         60,
@@ -4960,8 +4960,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "410",
-      "base": [
+      'dexNumber': '410',
+      'base': [
         30,
         42,
         118,
@@ -4971,8 +4971,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "411",
-      "base": [
+      'dexNumber': '411',
+      'base': [
         60,
         52,
         168,
@@ -4982,8 +4982,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "412",
-      "base": [
+      'dexNumber': '412',
+      'base': [
         40,
         29,
         45,
@@ -4993,9 +4993,9 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "413",
-      "otherForme": {
-        "plant": [
+      'dexNumber': '413',
+      'otherForme': {
+        'plant': [
           60,
           59,
           85,
@@ -5003,7 +5003,7 @@ function getDataList (localizedFormes) {
           105,
           36
         ],
-        "sandy": [
+        'sandy': [
           60,
           79,
           105,
@@ -5011,7 +5011,7 @@ function getDataList (localizedFormes) {
           85,
           36
         ],
-        "trash": [
+        'trash': [
           60,
           69,
           95,
@@ -5022,8 +5022,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "414",
-      "base": [
+      'dexNumber': '414',
+      'base': [
         70,
         94,
         50,
@@ -5033,8 +5033,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "415",
-      "base": [
+      'dexNumber': '415',
+      'base': [
         30,
         30,
         42,
@@ -5044,8 +5044,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "416",
-      "base": [
+      'dexNumber': '416',
+      'base': [
         70,
         80,
         102,
@@ -5055,8 +5055,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "417",
-      "base": [
+      'dexNumber': '417',
+      'base': [
         60,
         45,
         70,
@@ -5066,8 +5066,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "418",
-      "base": [
+      'dexNumber': '418',
+      'base': [
         55,
         65,
         35,
@@ -5077,8 +5077,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "419",
-      "base": [
+      'dexNumber': '419',
+      'base': [
         85,
         105,
         55,
@@ -5088,8 +5088,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "420",
-      "base": [
+      'dexNumber': '420',
+      'base': [
         45,
         35,
         45,
@@ -5099,8 +5099,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "421",
-      "base": [
+      'dexNumber': '421',
+      'base': [
         70,
         60,
         70,
@@ -5110,8 +5110,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "422",
-      "base": [
+      'dexNumber': '422',
+      'base': [
         76,
         48,
         48,
@@ -5121,8 +5121,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "423",
-      "base": [
+      'dexNumber': '423',
+      'base': [
         111,
         83,
         68,
@@ -5132,8 +5132,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "424",
-      "base": [
+      'dexNumber': '424',
+      'base': [
         75,
         100,
         66,
@@ -5143,8 +5143,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "425",
-      "base": [
+      'dexNumber': '425',
+      'base': [
         90,
         50,
         34,
@@ -5154,8 +5154,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "426",
-      "base": [
+      'dexNumber': '426',
+      'base': [
         150,
         80,
         44,
@@ -5165,8 +5165,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "427",
-      "base": [
+      'dexNumber': '427',
+      'base': [
         55,
         66,
         44,
@@ -5176,8 +5176,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "428",
-      "base": [
+      'dexNumber': '428',
+      'base': [
         65,
         76,
         84,
@@ -5185,8 +5185,8 @@ function getDataList (localizedFormes) {
         96,
         105
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           65,
           136,
           94,
@@ -5197,8 +5197,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "429",
-      "base": [
+      'dexNumber': '429',
+      'base': [
         60,
         60,
         60,
@@ -5208,8 +5208,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "430",
-      "base": [
+      'dexNumber': '430',
+      'base': [
         100,
         125,
         52,
@@ -5219,8 +5219,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "431",
-      "base": [
+      'dexNumber': '431',
+      'base': [
         49,
         55,
         42,
@@ -5230,8 +5230,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "432",
-      "base": [
+      'dexNumber': '432',
+      'base': [
         71,
         82,
         64,
@@ -5241,8 +5241,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "433",
-      "base": [
+      'dexNumber': '433',
+      'base': [
         45,
         30,
         50,
@@ -5252,8 +5252,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "434",
-      "base": [
+      'dexNumber': '434',
+      'base': [
         63,
         63,
         47,
@@ -5263,8 +5263,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "435",
-      "base": [
+      'dexNumber': '435',
+      'base': [
         103,
         93,
         67,
@@ -5274,8 +5274,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "436",
-      "base": [
+      'dexNumber': '436',
+      'base': [
         57,
         24,
         86,
@@ -5285,8 +5285,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "437",
-      "base": [
+      'dexNumber': '437',
+      'base': [
         67,
         89,
         116,
@@ -5296,8 +5296,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "438",
-      "base": [
+      'dexNumber': '438',
+      'base': [
         50,
         80,
         95,
@@ -5307,8 +5307,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "439",
-      "base": [
+      'dexNumber': '439',
+      'base': [
         20,
         25,
         45,
@@ -5318,8 +5318,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "440",
-      "base": [
+      'dexNumber': '440',
+      'base': [
         100,
         5,
         5,
@@ -5329,8 +5329,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "441",
-      "base": [
+      'dexNumber': '441',
+      'base': [
         76,
         65,
         45,
@@ -5340,8 +5340,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "442",
-      "base": [
+      'dexNumber': '442',
+      'base': [
         50,
         92,
         108,
@@ -5351,8 +5351,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "443",
-      "base": [
+      'dexNumber': '443',
+      'base': [
         58,
         70,
         45,
@@ -5362,8 +5362,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "444",
-      "base": [
+      'dexNumber': '444',
+      'base': [
         68,
         90,
         65,
@@ -5373,8 +5373,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "445",
-      "base": [
+      'dexNumber': '445',
+      'base': [
         108,
         130,
         95,
@@ -5382,8 +5382,8 @@ function getDataList (localizedFormes) {
         85,
         102
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           108,
           170,
           115,
@@ -5394,8 +5394,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "446",
-      "base": [
+      'dexNumber': '446',
+      'base': [
         135,
         85,
         40,
@@ -5405,8 +5405,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "447",
-      "base": [
+      'dexNumber': '447',
+      'base': [
         40,
         70,
         40,
@@ -5416,8 +5416,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "448",
-      "base": [
+      'dexNumber': '448',
+      'base': [
         70,
         110,
         70,
@@ -5425,8 +5425,8 @@ function getDataList (localizedFormes) {
         70,
         90
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           70,
           145,
           88,
@@ -5437,8 +5437,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "449",
-      "base": [
+      'dexNumber': '449',
+      'base': [
         68,
         72,
         78,
@@ -5448,8 +5448,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "450",
-      "base": [
+      'dexNumber': '450',
+      'base': [
         108,
         112,
         118,
@@ -5459,8 +5459,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "451",
-      "base": [
+      'dexNumber': '451',
+      'base': [
         40,
         50,
         90,
@@ -5470,8 +5470,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "452",
-      "base": [
+      'dexNumber': '452',
+      'base': [
         70,
         90,
         110,
@@ -5481,8 +5481,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "453",
-      "base": [
+      'dexNumber': '453',
+      'base': [
         48,
         61,
         40,
@@ -5492,8 +5492,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "454",
-      "base": [
+      'dexNumber': '454',
+      'base': [
         83,
         106,
         65,
@@ -5503,8 +5503,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "455",
-      "base": [
+      'dexNumber': '455',
+      'base': [
         74,
         100,
         72,
@@ -5514,8 +5514,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "456",
-      "base": [
+      'dexNumber': '456',
+      'base': [
         49,
         49,
         56,
@@ -5525,8 +5525,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "457",
-      "base": [
+      'dexNumber': '457',
+      'base': [
         69,
         69,
         76,
@@ -5536,8 +5536,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "458",
-      "base": [
+      'dexNumber': '458',
+      'base': [
         45,
         20,
         50,
@@ -5547,8 +5547,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "459",
-      "base": [
+      'dexNumber': '459',
+      'base': [
         60,
         62,
         50,
@@ -5558,8 +5558,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "460",
-      "base": [
+      'dexNumber': '460',
+      'base': [
         90,
         92,
         75,
@@ -5567,8 +5567,8 @@ function getDataList (localizedFormes) {
         85,
         60
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           90,
           132,
           105,
@@ -5579,8 +5579,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "461",
-      "base": [
+      'dexNumber': '461',
+      'base': [
         70,
         120,
         65,
@@ -5590,8 +5590,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "462",
-      "base": [
+      'dexNumber': '462',
+      'base': [
         70,
         70,
         115,
@@ -5601,8 +5601,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "463",
-      "base": [
+      'dexNumber': '463',
+      'base': [
         110,
         85,
         95,
@@ -5612,8 +5612,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "464",
-      "base": [
+      'dexNumber': '464',
+      'base': [
         115,
         140,
         130,
@@ -5623,8 +5623,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "465",
-      "base": [
+      'dexNumber': '465',
+      'base': [
         100,
         100,
         125,
@@ -5634,8 +5634,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "466",
-      "base": [
+      'dexNumber': '466',
+      'base': [
         75,
         123,
         67,
@@ -5645,8 +5645,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "467",
-      "base": [
+      'dexNumber': '467',
+      'base': [
         75,
         95,
         67,
@@ -5656,8 +5656,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "468",
-      "base": [
+      'dexNumber': '468',
+      'base': [
         85,
         50,
         95,
@@ -5667,8 +5667,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "469",
-      "base": [
+      'dexNumber': '469',
+      'base': [
         86,
         76,
         86,
@@ -5678,8 +5678,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "470",
-      "base": [
+      'dexNumber': '470',
+      'base': [
         65,
         110,
         130,
@@ -5689,8 +5689,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "471",
-      "base": [
+      'dexNumber': '471',
+      'base': [
         65,
         60,
         110,
@@ -5700,8 +5700,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "472",
-      "base": [
+      'dexNumber': '472',
+      'base': [
         75,
         95,
         125,
@@ -5711,8 +5711,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "473",
-      "base": [
+      'dexNumber': '473',
+      'base': [
         110,
         130,
         80,
@@ -5722,8 +5722,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "474",
-      "base": [
+      'dexNumber': '474',
+      'base': [
         85,
         80,
         70,
@@ -5733,8 +5733,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "475",
-      "base": [
+      'dexNumber': '475',
+      'base': [
         68,
         125,
         65,
@@ -5742,8 +5742,8 @@ function getDataList (localizedFormes) {
         115,
         80
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           68,
           165,
           95,
@@ -5754,8 +5754,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "476",
-      "base": [
+      'dexNumber': '476',
+      'base': [
         60,
         55,
         145,
@@ -5765,8 +5765,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "477",
-      "base": [
+      'dexNumber': '477',
+      'base': [
         45,
         100,
         135,
@@ -5776,8 +5776,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "478",
-      "base": [
+      'dexNumber': '478',
+      'base': [
         70,
         80,
         70,
@@ -5787,8 +5787,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "479",
-      "base": [
+      'dexNumber': '479',
+      'base': [
         50,
         50,
         77,
@@ -5796,8 +5796,8 @@ function getDataList (localizedFormes) {
         77,
         91
       ],
-      "otherForme": {
-        "heat": [
+      'otherForme': {
+        'heat': [
           50,
           65,
           107,
@@ -5805,7 +5805,7 @@ function getDataList (localizedFormes) {
           107,
           86
         ],
-        "wash": [
+        'wash': [
           50,
           65,
           107,
@@ -5813,7 +5813,7 @@ function getDataList (localizedFormes) {
           107,
           86
         ],
-        "frost": [
+        'frost': [
           50,
           65,
           107,
@@ -5821,7 +5821,7 @@ function getDataList (localizedFormes) {
           107,
           86
         ],
-        "fan": [
+        'fan': [
           50,
           65,
           107,
@@ -5829,7 +5829,7 @@ function getDataList (localizedFormes) {
           107,
           86
         ],
-        "mow": [
+        'mow': [
           50,
           65,
           107,
@@ -5840,8 +5840,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "480",
-      "base": [
+      'dexNumber': '480',
+      'base': [
         75,
         75,
         130,
@@ -5851,8 +5851,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "481",
-      "base": [
+      'dexNumber': '481',
+      'base': [
         80,
         105,
         105,
@@ -5862,8 +5862,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "482",
-      "base": [
+      'dexNumber': '482',
+      'base': [
         75,
         125,
         70,
@@ -5873,8 +5873,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "483",
-      "base": [
+      'dexNumber': '483',
+      'base': [
         100,
         120,
         120,
@@ -5884,8 +5884,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "484",
-      "base": [
+      'dexNumber': '484',
+      'base': [
         90,
         120,
         100,
@@ -5895,8 +5895,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "485",
-      "base": [
+      'dexNumber': '485',
+      'base': [
         91,
         90,
         106,
@@ -5906,8 +5906,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "486",
-      "base": [
+      'dexNumber': '486',
+      'base': [
         110,
         160,
         110,
@@ -5917,9 +5917,9 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "487",
-      "otherForme": {
-        "altered": [
+      'dexNumber': '487',
+      'otherForme': {
+        'altered': [
           150,
           100,
           120,
@@ -5927,7 +5927,7 @@ function getDataList (localizedFormes) {
           120,
           90
         ],
-        "origin": [
+        'origin': [
           150,
           120,
           100,
@@ -5938,8 +5938,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "488",
-      "base": [
+      'dexNumber': '488',
+      'base': [
         120,
         70,
         120,
@@ -5949,8 +5949,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "489",
-      "base": [
+      'dexNumber': '489',
+      'base': [
         80,
         80,
         80,
@@ -5960,8 +5960,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "490",
-      "base": [
+      'dexNumber': '490',
+      'base': [
         100,
         100,
         100,
@@ -5971,8 +5971,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "491",
-      "base": [
+      'dexNumber': '491',
+      'base': [
         70,
         90,
         90,
@@ -5982,9 +5982,9 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "492",
-      "otherForme": {
-        "land": [
+      'dexNumber': '492',
+      'otherForme': {
+        'land': [
           100,
           100,
           100,
@@ -5992,7 +5992,7 @@ function getDataList (localizedFormes) {
           100,
           100
         ],
-        "sky": [
+        'sky': [
           100,
           103,
           75,
@@ -6003,8 +6003,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "493",
-      "base": [
+      'dexNumber': '493',
+      'base': [
         120,
         120,
         120,
@@ -6014,8 +6014,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "494",
-      "base": [
+      'dexNumber': '494',
+      'base': [
         100,
         100,
         100,
@@ -6025,8 +6025,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "495",
-      "base": [
+      'dexNumber': '495',
+      'base': [
         45,
         45,
         55,
@@ -6036,8 +6036,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "496",
-      "base": [
+      'dexNumber': '496',
+      'base': [
         60,
         60,
         75,
@@ -6047,8 +6047,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "497",
-      "base": [
+      'dexNumber': '497',
+      'base': [
         75,
         75,
         95,
@@ -6058,8 +6058,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "498",
-      "base": [
+      'dexNumber': '498',
+      'base': [
         65,
         63,
         45,
@@ -6069,8 +6069,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "499",
-      "base": [
+      'dexNumber': '499',
+      'base': [
         90,
         93,
         55,
@@ -6080,8 +6080,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "500",
-      "base": [
+      'dexNumber': '500',
+      'base': [
         110,
         123,
         65,
@@ -6091,8 +6091,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "501",
-      "base": [
+      'dexNumber': '501',
+      'base': [
         55,
         55,
         45,
@@ -6102,8 +6102,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "502",
-      "base": [
+      'dexNumber': '502',
+      'base': [
         75,
         75,
         60,
@@ -6113,8 +6113,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "503",
-      "base": [
+      'dexNumber': '503',
+      'base': [
         95,
         100,
         85,
@@ -6124,8 +6124,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "504",
-      "base": [
+      'dexNumber': '504',
+      'base': [
         45,
         55,
         39,
@@ -6135,8 +6135,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "505",
-      "base": [
+      'dexNumber': '505',
+      'base': [
         60,
         85,
         69,
@@ -6146,8 +6146,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "506",
-      "base": [
+      'dexNumber': '506',
+      'base': [
         45,
         60,
         45,
@@ -6157,8 +6157,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "507",
-      "base": [
+      'dexNumber': '507',
+      'base': [
         65,
         80,
         65,
@@ -6168,8 +6168,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "508",
-      "base": [
+      'dexNumber': '508',
+      'base': [
         85,
         110,
         90,
@@ -6179,8 +6179,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "509",
-      "base": [
+      'dexNumber': '509',
+      'base': [
         41,
         50,
         37,
@@ -6190,8 +6190,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "510",
-      "base": [
+      'dexNumber': '510',
+      'base': [
         64,
         88,
         50,
@@ -6201,8 +6201,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "511",
-      "base": [
+      'dexNumber': '511',
+      'base': [
         50,
         53,
         48,
@@ -6212,8 +6212,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "512",
-      "base": [
+      'dexNumber': '512',
+      'base': [
         75,
         98,
         63,
@@ -6223,8 +6223,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "513",
-      "base": [
+      'dexNumber': '513',
+      'base': [
         50,
         53,
         48,
@@ -6234,8 +6234,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "514",
-      "base": [
+      'dexNumber': '514',
+      'base': [
         75,
         98,
         63,
@@ -6245,8 +6245,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "515",
-      "base": [
+      'dexNumber': '515',
+      'base': [
         50,
         53,
         48,
@@ -6256,8 +6256,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "516",
-      "base": [
+      'dexNumber': '516',
+      'base': [
         75,
         98,
         63,
@@ -6267,8 +6267,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "517",
-      "base": [
+      'dexNumber': '517',
+      'base': [
         76,
         25,
         45,
@@ -6278,8 +6278,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "518",
-      "base": [
+      'dexNumber': '518',
+      'base': [
         116,
         55,
         85,
@@ -6289,8 +6289,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "519",
-      "base": [
+      'dexNumber': '519',
+      'base': [
         50,
         55,
         50,
@@ -6300,8 +6300,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "520",
-      "base": [
+      'dexNumber': '520',
+      'base': [
         62,
         77,
         62,
@@ -6311,8 +6311,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "521",
-      "base": [
+      'dexNumber': '521',
+      'base': [
         80,
         115,
         80,
@@ -6322,8 +6322,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "522",
-      "base": [
+      'dexNumber': '522',
+      'base': [
         45,
         60,
         32,
@@ -6333,8 +6333,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "523",
-      "base": [
+      'dexNumber': '523',
+      'base': [
         75,
         100,
         63,
@@ -6344,8 +6344,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "524",
-      "base": [
+      'dexNumber': '524',
+      'base': [
         55,
         75,
         85,
@@ -6355,8 +6355,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "525",
-      "base": [
+      'dexNumber': '525',
+      'base': [
         70,
         105,
         105,
@@ -6366,8 +6366,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "526",
-      "base": [
+      'dexNumber': '526',
+      'base': [
         85,
         135,
         130,
@@ -6377,8 +6377,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "527",
-      "base": [
+      'dexNumber': '527',
+      'base': [
         55,
         45,
         43,
@@ -6388,8 +6388,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "528",
-      "base": [
+      'dexNumber': '528',
+      'base': [
         67,
         57,
         55,
@@ -6399,8 +6399,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "529",
-      "base": [
+      'dexNumber': '529',
+      'base': [
         60,
         85,
         40,
@@ -6410,8 +6410,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "530",
-      "base": [
+      'dexNumber': '530',
+      'base': [
         110,
         135,
         60,
@@ -6421,8 +6421,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "531",
-      "base": [
+      'dexNumber': '531',
+      'base': [
         103,
         60,
         86,
@@ -6430,8 +6430,8 @@ function getDataList (localizedFormes) {
         86,
         50
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           103,
           60,
           126,
@@ -6442,8 +6442,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "532",
-      "base": [
+      'dexNumber': '532',
+      'base': [
         75,
         80,
         55,
@@ -6453,8 +6453,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "533",
-      "base": [
+      'dexNumber': '533',
+      'base': [
         85,
         105,
         85,
@@ -6464,8 +6464,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "534",
-      "base": [
+      'dexNumber': '534',
+      'base': [
         105,
         140,
         95,
@@ -6475,8 +6475,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "535",
-      "base": [
+      'dexNumber': '535',
+      'base': [
         50,
         50,
         40,
@@ -6486,8 +6486,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "536",
-      "base": [
+      'dexNumber': '536',
+      'base': [
         75,
         65,
         55,
@@ -6497,8 +6497,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "537",
-      "base": [
+      'dexNumber': '537',
+      'base': [
         105,
         95,
         75,
@@ -6508,8 +6508,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "538",
-      "base": [
+      'dexNumber': '538',
+      'base': [
         120,
         100,
         85,
@@ -6519,8 +6519,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "539",
-      "base": [
+      'dexNumber': '539',
+      'base': [
         75,
         125,
         75,
@@ -6530,8 +6530,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "540",
-      "base": [
+      'dexNumber': '540',
+      'base': [
         45,
         53,
         70,
@@ -6541,8 +6541,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "541",
-      "base": [
+      'dexNumber': '541',
+      'base': [
         55,
         63,
         90,
@@ -6552,8 +6552,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "542",
-      "base": [
+      'dexNumber': '542',
+      'base': [
         75,
         103,
         80,
@@ -6563,8 +6563,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "543",
-      "base": [
+      'dexNumber': '543',
+      'base': [
         30,
         45,
         59,
@@ -6574,8 +6574,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "544",
-      "base": [
+      'dexNumber': '544',
+      'base': [
         40,
         55,
         99,
@@ -6585,8 +6585,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "545",
-      "base": [
+      'dexNumber': '545',
+      'base': [
         60,
         100,
         89,
@@ -6596,8 +6596,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "546",
-      "base": [
+      'dexNumber': '546',
+      'base': [
         40,
         27,
         60,
@@ -6607,8 +6607,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "547",
-      "base": [
+      'dexNumber': '547',
+      'base': [
         60,
         67,
         85,
@@ -6618,8 +6618,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "548",
-      "base": [
+      'dexNumber': '548',
+      'base': [
         45,
         35,
         50,
@@ -6629,8 +6629,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "549",
-      "base": [
+      'dexNumber': '549',
+      'base': [
         70,
         60,
         75,
@@ -6640,8 +6640,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "550",
-      "base": [
+      'dexNumber': '550',
+      'base': [
         70,
         92,
         65,
@@ -6651,8 +6651,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "551",
-      "base": [
+      'dexNumber': '551',
+      'base': [
         50,
         72,
         35,
@@ -6662,8 +6662,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "552",
-      "base": [
+      'dexNumber': '552',
+      'base': [
         60,
         82,
         45,
@@ -6673,8 +6673,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "553",
-      "base": [
+      'dexNumber': '553',
+      'base': [
         95,
         117,
         80,
@@ -6684,8 +6684,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "554",
-      "base": [
+      'dexNumber': '554',
+      'base': [
         70,
         90,
         45,
@@ -6695,8 +6695,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "555",
-      "base": [
+      'dexNumber': '555',
+      'base': [
         105,
         140,
         55,
@@ -6704,8 +6704,8 @@ function getDataList (localizedFormes) {
         55,
         95
       ],
-      "otherForme": {
-        "zen": [
+      'otherForme': {
+        'zen': [
           105,
           30,
           105,
@@ -6716,8 +6716,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "556",
-      "base": [
+      'dexNumber': '556',
+      'base': [
         75,
         86,
         67,
@@ -6727,8 +6727,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "557",
-      "base": [
+      'dexNumber': '557',
+      'base': [
         50,
         65,
         85,
@@ -6738,8 +6738,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "558",
-      "base": [
+      'dexNumber': '558',
+      'base': [
         70,
         95,
         125,
@@ -6749,8 +6749,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "559",
-      "base": [
+      'dexNumber': '559',
+      'base': [
         50,
         75,
         70,
@@ -6760,8 +6760,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "560",
-      "base": [
+      'dexNumber': '560',
+      'base': [
         65,
         90,
         115,
@@ -6771,8 +6771,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "561",
-      "base": [
+      'dexNumber': '561',
+      'base': [
         72,
         58,
         80,
@@ -6782,8 +6782,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "562",
-      "base": [
+      'dexNumber': '562',
+      'base': [
         38,
         30,
         85,
@@ -6793,8 +6793,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "563",
-      "base": [
+      'dexNumber': '563',
+      'base': [
         58,
         50,
         145,
@@ -6804,8 +6804,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "564",
-      "base": [
+      'dexNumber': '564',
+      'base': [
         54,
         78,
         103,
@@ -6815,8 +6815,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "565",
-      "base": [
+      'dexNumber': '565',
+      'base': [
         74,
         108,
         133,
@@ -6826,8 +6826,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "566",
-      "base": [
+      'dexNumber': '566',
+      'base': [
         55,
         112,
         45,
@@ -6837,8 +6837,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "567",
-      "base": [
+      'dexNumber': '567',
+      'base': [
         75,
         140,
         65,
@@ -6848,8 +6848,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "568",
-      "base": [
+      'dexNumber': '568',
+      'base': [
         50,
         50,
         62,
@@ -6859,8 +6859,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "569",
-      "base": [
+      'dexNumber': '569',
+      'base': [
         80,
         95,
         82,
@@ -6870,8 +6870,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "570",
-      "base": [
+      'dexNumber': '570',
+      'base': [
         40,
         65,
         40,
@@ -6881,8 +6881,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "571",
-      "base": [
+      'dexNumber': '571',
+      'base': [
         60,
         105,
         60,
@@ -6892,8 +6892,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "572",
-      "base": [
+      'dexNumber': '572',
+      'base': [
         55,
         50,
         40,
@@ -6903,8 +6903,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "573",
-      "base": [
+      'dexNumber': '573',
+      'base': [
         75,
         95,
         60,
@@ -6914,8 +6914,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "574",
-      "base": [
+      'dexNumber': '574',
+      'base': [
         45,
         30,
         50,
@@ -6925,8 +6925,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "575",
-      "base": [
+      'dexNumber': '575',
+      'base': [
         60,
         45,
         70,
@@ -6936,8 +6936,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "576",
-      "base": [
+      'dexNumber': '576',
+      'base': [
         70,
         55,
         95,
@@ -6947,8 +6947,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "577",
-      "base": [
+      'dexNumber': '577',
+      'base': [
         45,
         30,
         40,
@@ -6958,8 +6958,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "578",
-      "base": [
+      'dexNumber': '578',
+      'base': [
         65,
         40,
         50,
@@ -6969,8 +6969,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "579",
-      "base": [
+      'dexNumber': '579',
+      'base': [
         110,
         65,
         75,
@@ -6980,8 +6980,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "580",
-      "base": [
+      'dexNumber': '580',
+      'base': [
         62,
         44,
         50,
@@ -6991,8 +6991,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "581",
-      "base": [
+      'dexNumber': '581',
+      'base': [
         75,
         87,
         63,
@@ -7002,8 +7002,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "582",
-      "base": [
+      'dexNumber': '582',
+      'base': [
         36,
         50,
         50,
@@ -7013,8 +7013,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "583",
-      "base": [
+      'dexNumber': '583',
+      'base': [
         51,
         65,
         65,
@@ -7024,8 +7024,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "584",
-      "base": [
+      'dexNumber': '584',
+      'base': [
         71,
         95,
         85,
@@ -7035,8 +7035,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "585",
-      "base": [
+      'dexNumber': '585',
+      'base': [
         60,
         60,
         50,
@@ -7046,8 +7046,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "586",
-      "base": [
+      'dexNumber': '586',
+      'base': [
         80,
         100,
         70,
@@ -7057,8 +7057,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "587",
-      "base": [
+      'dexNumber': '587',
+      'base': [
         55,
         75,
         60,
@@ -7068,8 +7068,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "588",
-      "base": [
+      'dexNumber': '588',
+      'base': [
         50,
         75,
         45,
@@ -7079,8 +7079,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "589",
-      "base": [
+      'dexNumber': '589',
+      'base': [
         70,
         135,
         105,
@@ -7090,8 +7090,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "590",
-      "base": [
+      'dexNumber': '590',
+      'base': [
         69,
         55,
         45,
@@ -7101,8 +7101,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "591",
-      "base": [
+      'dexNumber': '591',
+      'base': [
         114,
         85,
         70,
@@ -7112,8 +7112,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "592",
-      "base": [
+      'dexNumber': '592',
+      'base': [
         55,
         40,
         50,
@@ -7123,8 +7123,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "593",
-      "base": [
+      'dexNumber': '593',
+      'base': [
         100,
         60,
         70,
@@ -7134,8 +7134,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "594",
-      "base": [
+      'dexNumber': '594',
+      'base': [
         165,
         75,
         80,
@@ -7145,8 +7145,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "595",
-      "base": [
+      'dexNumber': '595',
+      'base': [
         50,
         47,
         50,
@@ -7156,8 +7156,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "596",
-      "base": [
+      'dexNumber': '596',
+      'base': [
         70,
         77,
         60,
@@ -7167,8 +7167,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "597",
-      "base": [
+      'dexNumber': '597',
+      'base': [
         44,
         50,
         91,
@@ -7178,8 +7178,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "598",
-      "base": [
+      'dexNumber': '598',
+      'base': [
         74,
         94,
         131,
@@ -7189,8 +7189,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "599",
-      "base": [
+      'dexNumber': '599',
+      'base': [
         40,
         55,
         70,
@@ -7200,8 +7200,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "600",
-      "base": [
+      'dexNumber': '600',
+      'base': [
         60,
         80,
         95,
@@ -7211,8 +7211,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "601",
-      "base": [
+      'dexNumber': '601',
+      'base': [
         60,
         100,
         115,
@@ -7222,8 +7222,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "602",
-      "base": [
+      'dexNumber': '602',
+      'base': [
         35,
         55,
         40,
@@ -7233,8 +7233,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "603",
-      "base": [
+      'dexNumber': '603',
+      'base': [
         65,
         85,
         70,
@@ -7244,8 +7244,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "604",
-      "base": [
+      'dexNumber': '604',
+      'base': [
         85,
         115,
         80,
@@ -7255,8 +7255,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "605",
-      "base": [
+      'dexNumber': '605',
+      'base': [
         55,
         55,
         55,
@@ -7266,8 +7266,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "606",
-      "base": [
+      'dexNumber': '606',
+      'base': [
         75,
         75,
         75,
@@ -7277,8 +7277,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "607",
-      "base": [
+      'dexNumber': '607',
+      'base': [
         50,
         30,
         55,
@@ -7288,8 +7288,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "608",
-      "base": [
+      'dexNumber': '608',
+      'base': [
         60,
         40,
         60,
@@ -7299,8 +7299,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "609",
-      "base": [
+      'dexNumber': '609',
+      'base': [
         60,
         55,
         90,
@@ -7310,8 +7310,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "610",
-      "base": [
+      'dexNumber': '610',
+      'base': [
         46,
         87,
         60,
@@ -7321,8 +7321,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "611",
-      "base": [
+      'dexNumber': '611',
+      'base': [
         66,
         117,
         70,
@@ -7332,8 +7332,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "612",
-      "base": [
+      'dexNumber': '612',
+      'base': [
         76,
         147,
         90,
@@ -7343,8 +7343,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "613",
-      "base": [
+      'dexNumber': '613',
+      'base': [
         55,
         70,
         40,
@@ -7354,8 +7354,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "614",
-      "base": [
+      'dexNumber': '614',
+      'base': [
         95,
         110,
         80,
@@ -7365,8 +7365,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "615",
-      "base": [
+      'dexNumber': '615',
+      'base': [
         70,
         50,
         30,
@@ -7376,8 +7376,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "616",
-      "base": [
+      'dexNumber': '616',
+      'base': [
         50,
         40,
         85,
@@ -7387,8 +7387,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "617",
-      "base": [
+      'dexNumber': '617',
+      'base': [
         80,
         70,
         40,
@@ -7398,8 +7398,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "618",
-      "base": [
+      'dexNumber': '618',
+      'base': [
         109,
         66,
         84,
@@ -7409,8 +7409,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "619",
-      "base": [
+      'dexNumber': '619',
+      'base': [
         45,
         85,
         50,
@@ -7420,8 +7420,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "620",
-      "base": [
+      'dexNumber': '620',
+      'base': [
         65,
         125,
         60,
@@ -7431,8 +7431,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "621",
-      "base": [
+      'dexNumber': '621',
+      'base': [
         77,
         120,
         90,
@@ -7442,8 +7442,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "622",
-      "base": [
+      'dexNumber': '622',
+      'base': [
         59,
         74,
         50,
@@ -7453,8 +7453,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "623",
-      "base": [
+      'dexNumber': '623',
+      'base': [
         89,
         124,
         80,
@@ -7464,8 +7464,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "624",
-      "base": [
+      'dexNumber': '624',
+      'base': [
         45,
         85,
         70,
@@ -7475,8 +7475,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "625",
-      "base": [
+      'dexNumber': '625',
+      'base': [
         65,
         125,
         100,
@@ -7486,8 +7486,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "626",
-      "base": [
+      'dexNumber': '626',
+      'base': [
         95,
         110,
         95,
@@ -7497,8 +7497,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "627",
-      "base": [
+      'dexNumber': '627',
+      'base': [
         70,
         83,
         50,
@@ -7508,8 +7508,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "628",
-      "base": [
+      'dexNumber': '628',
+      'base': [
         100,
         123,
         75,
@@ -7519,8 +7519,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "629",
-      "base": [
+      'dexNumber': '629',
+      'base': [
         70,
         55,
         75,
@@ -7530,8 +7530,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "630",
-      "base": [
+      'dexNumber': '630',
+      'base': [
         110,
         65,
         105,
@@ -7541,8 +7541,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "631",
-      "base": [
+      'dexNumber': '631',
+      'base': [
         85,
         97,
         66,
@@ -7552,8 +7552,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "632",
-      "base": [
+      'dexNumber': '632',
+      'base': [
         58,
         109,
         112,
@@ -7563,8 +7563,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "633",
-      "base": [
+      'dexNumber': '633',
+      'base': [
         52,
         65,
         50,
@@ -7574,8 +7574,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "634",
-      "base": [
+      'dexNumber': '634',
+      'base': [
         72,
         85,
         70,
@@ -7585,8 +7585,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "635",
-      "base": [
+      'dexNumber': '635',
+      'base': [
         92,
         105,
         90,
@@ -7596,8 +7596,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "636",
-      "base": [
+      'dexNumber': '636',
+      'base': [
         55,
         85,
         55,
@@ -7607,8 +7607,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "637",
-      "base": [
+      'dexNumber': '637',
+      'base': [
         85,
         60,
         65,
@@ -7618,8 +7618,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "638",
-      "base": [
+      'dexNumber': '638',
+      'base': [
         91,
         90,
         129,
@@ -7629,8 +7629,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "639",
-      "base": [
+      'dexNumber': '639',
+      'base': [
         91,
         129,
         90,
@@ -7640,8 +7640,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "640",
-      "base": [
+      'dexNumber': '640',
+      'base': [
         91,
         90,
         72,
@@ -7651,8 +7651,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "641",
-      "base": [
+      'dexNumber': '641',
+      'base': [
         79,
         115,
         70,
@@ -7660,8 +7660,8 @@ function getDataList (localizedFormes) {
         80,
         111
       ],
-      "otherForme": {
-        "therian": [
+      'otherForme': {
+        'therian': [
           79,
           100,
           80,
@@ -7672,8 +7672,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "642",
-      "base": [
+      'dexNumber': '642',
+      'base': [
         79,
         115,
         70,
@@ -7681,8 +7681,8 @@ function getDataList (localizedFormes) {
         80,
         111
       ],
-      "otherForme": {
-        "therian": [
+      'otherForme': {
+        'therian': [
           79,
           105,
           70,
@@ -7693,8 +7693,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "643",
-      "base": [
+      'dexNumber': '643',
+      'base': [
         100,
         120,
         100,
@@ -7704,8 +7704,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "644",
-      "base": [
+      'dexNumber': '644',
+      'base': [
         100,
         150,
         120,
@@ -7715,8 +7715,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "645",
-      "base": [
+      'dexNumber': '645',
+      'base': [
         89,
         125,
         90,
@@ -7724,8 +7724,8 @@ function getDataList (localizedFormes) {
         80,
         101
       ],
-      "otherForme": {
-        "therian": [
+      'otherForme': {
+        'therian': [
           89,
           145,
           90,
@@ -7736,8 +7736,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "646",
-      "base": [
+      'dexNumber': '646',
+      'base': [
         125,
         130,
         90,
@@ -7745,8 +7745,8 @@ function getDataList (localizedFormes) {
         90,
         95
       ],
-      "otherForme": {
-        "black": [
+      'otherForme': {
+        'black': [
           125,
           170,
           100,
@@ -7754,7 +7754,7 @@ function getDataList (localizedFormes) {
           90,
           95
         ],
-        "white": [
+        'white': [
           125,
           120,
           90,
@@ -7765,8 +7765,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "647",
-      "base": [
+      'dexNumber': '647',
+      'base': [
         91,
         72,
         90,
@@ -7776,9 +7776,9 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "648",
-      "otherForme": {
-        "aria": [
+      'dexNumber': '648',
+      'otherForme': {
+        'aria': [
           100,
           77,
           77,
@@ -7786,7 +7786,7 @@ function getDataList (localizedFormes) {
           128,
           90
         ],
-        "pirouette": [
+        'pirouette': [
           100,
           128,
           90,
@@ -7797,8 +7797,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "649",
-      "base": [
+      'dexNumber': '649',
+      'base': [
         71,
         120,
         95,
@@ -7808,8 +7808,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "650",
-      "base": [
+      'dexNumber': '650',
+      'base': [
         56,
         61,
         65,
@@ -7819,8 +7819,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "651",
-      "base": [
+      'dexNumber': '651',
+      'base': [
         61,
         78,
         95,
@@ -7830,8 +7830,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "652",
-      "base": [
+      'dexNumber': '652',
+      'base': [
         88,
         107,
         122,
@@ -7841,8 +7841,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "653",
-      "base": [
+      'dexNumber': '653',
+      'base': [
         40,
         45,
         40,
@@ -7852,8 +7852,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "654",
-      "base": [
+      'dexNumber': '654',
+      'base': [
         59,
         59,
         58,
@@ -7863,8 +7863,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "655",
-      "base": [
+      'dexNumber': '655',
+      'base': [
         75,
         69,
         72,
@@ -7874,8 +7874,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "656",
-      "base": [
+      'dexNumber': '656',
+      'base': [
         41,
         56,
         40,
@@ -7885,8 +7885,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "657",
-      "base": [
+      'dexNumber': '657',
+      'base': [
         54,
         63,
         52,
@@ -7896,8 +7896,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "658",
-      "base": [
+      'dexNumber': '658',
+      'base': [
         72,
         95,
         67,
@@ -7907,8 +7907,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "659",
-      "base": [
+      'dexNumber': '659',
+      'base': [
         38,
         36,
         38,
@@ -7918,8 +7918,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "660",
-      "base": [
+      'dexNumber': '660',
+      'base': [
         85,
         56,
         77,
@@ -7929,8 +7929,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "661",
-      "base": [
+      'dexNumber': '661',
+      'base': [
         45,
         50,
         43,
@@ -7940,8 +7940,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "662",
-      "base": [
+      'dexNumber': '662',
+      'base': [
         62,
         73,
         55,
@@ -7951,8 +7951,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "663",
-      "base": [
+      'dexNumber': '663',
+      'base': [
         78,
         81,
         71,
@@ -7962,8 +7962,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "664",
-      "base": [
+      'dexNumber': '664',
+      'base': [
         38,
         35,
         40,
@@ -7973,8 +7973,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "665",
-      "base": [
+      'dexNumber': '665',
+      'base': [
         45,
         22,
         60,
@@ -7984,8 +7984,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "666",
-      "base": [
+      'dexNumber': '666',
+      'base': [
         80,
         52,
         50,
@@ -7995,8 +7995,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "667",
-      "base": [
+      'dexNumber': '667',
+      'base': [
         62,
         50,
         58,
@@ -8006,8 +8006,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "668",
-      "base": [
+      'dexNumber': '668',
+      'base': [
         86,
         68,
         72,
@@ -8017,8 +8017,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "669",
-      "base": [
+      'dexNumber': '669',
+      'base': [
         44,
         38,
         39,
@@ -8028,8 +8028,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "670",
-      "base": [
+      'dexNumber': '670',
+      'base': [
         54,
         45,
         47,
@@ -8039,8 +8039,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "671",
-      "base": [
+      'dexNumber': '671',
+      'base': [
         78,
         65,
         68,
@@ -8050,8 +8050,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "672",
-      "base": [
+      'dexNumber': '672',
+      'base': [
         66,
         65,
         48,
@@ -8061,8 +8061,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "673",
-      "base": [
+      'dexNumber': '673',
+      'base': [
         123,
         100,
         62,
@@ -8072,8 +8072,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "674",
-      "base": [
+      'dexNumber': '674',
+      'base': [
         67,
         82,
         62,
@@ -8083,8 +8083,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "675",
-      "base": [
+      'dexNumber': '675',
+      'base': [
         95,
         124,
         78,
@@ -8094,8 +8094,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "676",
-      "base": [
+      'dexNumber': '676',
+      'base': [
         75,
         80,
         60,
@@ -8105,8 +8105,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "677",
-      "base": [
+      'dexNumber': '677',
+      'base': [
         62,
         48,
         54,
@@ -8116,8 +8116,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "678",
-      "base": [
+      'dexNumber': '678',
+      'base': [
         74,
         48,
         76,
@@ -8127,8 +8127,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "679",
-      "base": [
+      'dexNumber': '679',
+      'base': [
         45,
         80,
         100,
@@ -8138,8 +8138,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "680",
-      "base": [
+      'dexNumber': '680',
+      'base': [
         59,
         110,
         150,
@@ -8149,8 +8149,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "681",
-      "base": [
+      'dexNumber': '681',
+      'base': [
         60,
         50,
         150,
@@ -8158,8 +8158,8 @@ function getDataList (localizedFormes) {
         150,
         60
       ],
-      "otherForme": {
-        "blade": [
+      'otherForme': {
+        'blade': [
           60,
           150,
           50,
@@ -8170,8 +8170,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "682",
-      "base": [
+      'dexNumber': '682',
+      'base': [
         78,
         52,
         60,
@@ -8181,8 +8181,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "683",
-      "base": [
+      'dexNumber': '683',
+      'base': [
         101,
         72,
         72,
@@ -8192,8 +8192,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "684",
-      "base": [
+      'dexNumber': '684',
+      'base': [
         62,
         48,
         66,
@@ -8203,8 +8203,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "685",
-      "base": [
+      'dexNumber': '685',
+      'base': [
         82,
         80,
         86,
@@ -8214,8 +8214,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "686",
-      "base": [
+      'dexNumber': '686',
+      'base': [
         53,
         54,
         53,
@@ -8225,8 +8225,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "687",
-      "base": [
+      'dexNumber': '687',
+      'base': [
         86,
         92,
         88,
@@ -8236,8 +8236,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "688",
-      "base": [
+      'dexNumber': '688',
+      'base': [
         42,
         52,
         67,
@@ -8247,8 +8247,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "689",
-      "base": [
+      'dexNumber': '689',
+      'base': [
         72,
         105,
         115,
@@ -8258,8 +8258,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "690",
-      "base": [
+      'dexNumber': '690',
+      'base': [
         50,
         60,
         60,
@@ -8269,8 +8269,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "691",
-      "base": [
+      'dexNumber': '691',
+      'base': [
         65,
         75,
         90,
@@ -8280,8 +8280,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "692",
-      "base": [
+      'dexNumber': '692',
+      'base': [
         50,
         53,
         62,
@@ -8291,8 +8291,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "693",
-      "base": [
+      'dexNumber': '693',
+      'base': [
         71,
         73,
         88,
@@ -8302,8 +8302,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "694",
-      "base": [
+      'dexNumber': '694',
+      'base': [
         44,
         38,
         33,
@@ -8313,8 +8313,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "695",
-      "base": [
+      'dexNumber': '695',
+      'base': [
         62,
         55,
         52,
@@ -8324,8 +8324,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "696",
-      "base": [
+      'dexNumber': '696',
+      'base': [
         58,
         89,
         77,
@@ -8335,8 +8335,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "697",
-      "base": [
+      'dexNumber': '697',
+      'base': [
         82,
         121,
         119,
@@ -8346,8 +8346,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "698",
-      "base": [
+      'dexNumber': '698',
+      'base': [
         77,
         59,
         50,
@@ -8357,8 +8357,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "699",
-      "base": [
+      'dexNumber': '699',
+      'base': [
         123,
         77,
         72,
@@ -8368,8 +8368,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "700",
-      "base": [
+      'dexNumber': '700',
+      'base': [
         95,
         65,
         65,
@@ -8379,8 +8379,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "701",
-      "base": [
+      'dexNumber': '701',
+      'base': [
         78,
         92,
         75,
@@ -8390,8 +8390,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "702",
-      "base": [
+      'dexNumber': '702',
+      'base': [
         67,
         58,
         57,
@@ -8401,8 +8401,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "703",
-      "base": [
+      'dexNumber': '703',
+      'base': [
         50,
         50,
         150,
@@ -8412,8 +8412,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "704",
-      "base": [
+      'dexNumber': '704',
+      'base': [
         45,
         50,
         35,
@@ -8423,8 +8423,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "705",
-      "base": [
+      'dexNumber': '705',
+      'base': [
         68,
         75,
         53,
@@ -8434,8 +8434,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "706",
-      "base": [
+      'dexNumber': '706',
+      'base': [
         90,
         100,
         70,
@@ -8445,8 +8445,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "707",
-      "base": [
+      'dexNumber': '707',
+      'base': [
         57,
         80,
         91,
@@ -8456,8 +8456,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "708",
-      "base": [
+      'dexNumber': '708',
+      'base': [
         43,
         70,
         48,
@@ -8467,8 +8467,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "709",
-      "base": [
+      'dexNumber': '709',
+      'base': [
         85,
         110,
         76,
@@ -8478,9 +8478,9 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "710",
-      "otherForme": {
-        "smallSize": [
+      'dexNumber': '710',
+      'otherForme': {
+        'smallSize': [
           44,
           66,
           70,
@@ -8488,7 +8488,7 @@ function getDataList (localizedFormes) {
           55,
           56
         ],
-        "averageSize": [
+        'averageSize': [
           49,
           66,
           70,
@@ -8496,7 +8496,7 @@ function getDataList (localizedFormes) {
           55,
           51
         ],
-        "largeSize": [
+        'largeSize': [
           54,
           66,
           70,
@@ -8504,7 +8504,7 @@ function getDataList (localizedFormes) {
           55,
           46
         ],
-        "superSize": [
+        'superSize': [
           59,
           66,
           70,
@@ -8515,9 +8515,9 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "711",
-      "otherForme": {
-        "smallSize": [
+      'dexNumber': '711',
+      'otherForme': {
+        'smallSize': [
           55,
           85,
           122,
@@ -8525,7 +8525,7 @@ function getDataList (localizedFormes) {
           75,
           99
         ],
-        "averageSize": [
+        'averageSize': [
           65,
           90,
           122,
@@ -8533,7 +8533,7 @@ function getDataList (localizedFormes) {
           75,
           84
         ],
-        "largeSize": [
+        'largeSize': [
           75,
           95,
           122,
@@ -8541,7 +8541,7 @@ function getDataList (localizedFormes) {
           75,
           69
         ],
-        "superSize": [
+        'superSize': [
           85,
           100,
           122,
@@ -8552,8 +8552,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "712",
-      "base": [
+      'dexNumber': '712',
+      'base': [
         55,
         69,
         85,
@@ -8563,8 +8563,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "713",
-      "base": [
+      'dexNumber': '713',
+      'base': [
         95,
         117,
         184,
@@ -8574,8 +8574,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "714",
-      "base": [
+      'dexNumber': '714',
+      'base': [
         40,
         30,
         35,
@@ -8585,8 +8585,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "715",
-      "base": [
+      'dexNumber': '715',
+      'base': [
         85,
         70,
         80,
@@ -8596,8 +8596,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "716",
-      "base": [
+      'dexNumber': '716',
+      'base': [
         126,
         131,
         95,
@@ -8607,8 +8607,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "717",
-      "base": [
+      'dexNumber': '717',
+      'base': [
         126,
         131,
         95,
@@ -8618,8 +8618,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "718",
-      "base": [
+      'dexNumber': '718',
+      'base': [
         108,
         100,
         121,
@@ -8629,8 +8629,8 @@ function getDataList (localizedFormes) {
       ]
     },
     {
-      "dexNumber": "719",
-      "base": [
+      'dexNumber': '719',
+      'base': [
         50,
         100,
         150,
@@ -8638,8 +8638,8 @@ function getDataList (localizedFormes) {
         150,
         50
       ],
-      "otherForme": {
-        "mega": [
+      'otherForme': {
+        'mega': [
           50,
           160,
           110,
@@ -8650,9 +8650,9 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "720",
-      "otherForme": {
-        "confined": [
+      'dexNumber': '720',
+      'otherForme': {
+        'confined': [
           80,
           110,
           60,
@@ -8660,7 +8660,7 @@ function getDataList (localizedFormes) {
           130,
           70
         ],
-        "unbound": [
+        'unbound': [
           80,
           160,
           60,
@@ -8671,8 +8671,8 @@ function getDataList (localizedFormes) {
       }
     },
     {
-      "dexNumber": "721",
-      "base": [
+      'dexNumber': '721',
+      'base': [
         80,
         110,
         120,
