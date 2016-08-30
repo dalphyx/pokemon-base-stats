@@ -1,8 +1,8 @@
 import test from 'ava'
 import main from './'
 
-let baseStats = [78, 84, 78, 109, 85, 100]
-let megaStats = [78, 130, 111, 130, 85, 100]
+let baseStats = ['78', '84', '78', '109', '85', '100']
+let megaStats = ['78', '130', '111', '130', '85', '100']
 
 test('Get stats by IDs', t => {
   t.deepEqual(main.getById({ id: 6 }), baseStats)
