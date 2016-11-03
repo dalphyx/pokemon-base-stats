@@ -3,7 +3,12 @@ exports.loadData = function (lang) {
     lang = 'en'
   }
 
-  return getDataList(require(`./forme_${lang}`))
+  try {
+    var localizedFormes = require(`./forme_${lang}`)
+  } catch (e) {
+    // localized formes not available for all languages, simply ignore error
+  }
+  return getDataList(localizedFormes)
 }
 
 function getDataList (localizedFormes) {
