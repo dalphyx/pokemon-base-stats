@@ -47,6 +47,7 @@ baseStats.getByName({ name: '喷火龙', forme: 'megaX', lang: 'zh-Hans' })
 
 ### getByName: { name, forme, lang = 'en' }
 
+### getFormes: { id, name, lang = 'en' }
 
 
 ## Supported languages
