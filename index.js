@@ -31,5 +31,22 @@ function getByName ({ name, forme, lang = 'en' } = {}) {
   return getResult(o, id, name, forme)
 }
 
+function getFormes ({ id, name, lang = 'en'} = {}) {
+  if (!id) {
+    id = pokemon.getId(name, lang)
+  } else {
+    // check pokemon exists
+    pokemon.getName(id, lang)
+  }
+
+  let o = data(lang)[id - 1]
+  formes = 'base' in o ? [ 'base' ] : []
+  if ('otherForme' in o) {
+    formes = formes.concat(Object.keys(o.otherForme))
+  }
+  return formes
+}
+
 exports.getById = getById
 exports.getByName = getByName
+exports.getFormes = getFormes
