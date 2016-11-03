@@ -1,6 +1,8 @@
-exports.loadData = function (lang) {
-  if (!lang) {
-    lang = 'en'
+var loadedData = {}
+
+module.exports = function loadData (lang = 'en') {
+  if (lang in loadedData) {
+    return loadedData[lang]
   }
 
   try {
@@ -8,7 +10,7 @@ exports.loadData = function (lang) {
   } catch (e) {
     // localized formes not available for all languages, simply ignore error
   }
-  return getDataList(localizedFormes)
+  return loadedData[lang] = getDataList(localizedFormes)
 }
 
 function getDataList (localizedFormes) {

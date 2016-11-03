@@ -1,5 +1,5 @@
 const pokemon = require('pokemon')
-const loadData = require('./data/data').loadData
+const data = require('./data/data')
 
 function getResult (o, id, name, forme) {
   if (!('base' in o)) {
@@ -18,17 +18,15 @@ function getResult (o, id, name, forme) {
 }
 
 function getById ({ id, forme, lang = 'en' } = {}) {
-  const statsData = loadData(lang)
-  let o = statsData[id - 1]
+  let o = data(lang)[id - 1]
   let name = pokemon.getName(id, lang)
 
   return getResult(o, id, name, forme)
 }
 
 function getByName ({ name, forme, lang = 'en' } = {}) {
-  const statsData = loadData(lang)
   let id = pokemon.getId(name, lang)
-  let o = statsData[id - 1]
+  let o = data(lang)[id - 1]
 
   return getResult(o, id, name, forme)
 }
