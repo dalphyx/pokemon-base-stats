@@ -18,7 +18,7 @@ $ npm install --save pokemon-base-stats
 
 ## Usage
 
-```jsx
+```js
 const baseStats = require('pokemon-base-stats')
 
 baseStats.getById({ id: 6 })
@@ -38,6 +38,15 @@ baseStats.getByName({ name: '喷火龙', lang: 'zh-Hans' })
 
 baseStats.getByName({ name: '喷火龙', forme: 'megaX', lang: 'zh-Hans' })
 // => [78, 130, 111, 130, 85, 100]
+
+baseStats.getFormes({ name: 'Charizard' })
+// => ['base', 'megaY', 'megaX']
+
+baseStats.getFormes({ name: '胡帕', lang: 'zh-Hant' })
+// => ['confined', 'unbound']
+
+baseStats.getFormes({ id: 720 })
+// => ['confined', 'unbound']
 ```
 
 
