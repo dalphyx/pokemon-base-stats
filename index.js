@@ -2,11 +2,7 @@ const pokemon = require('pokemon')
 const data = require('./data/data')
 
 function getResult (o, id, name, forme) {
-  if (!('base' in o)) {
-    throw new Error(`No.${id} ${name} does not have normal forme.`)
-  }
-
-  if (forme) {
+  if (forme && forme != 'base') {
     if (!o.otherForme || !o.otherForme[forme]) {
       throw new Error(`No.${id} ${name} does not have '${forme}' forme.`)
     }
@@ -14,6 +10,9 @@ function getResult (o, id, name, forme) {
     return o.otherForme[forme]
   }
 
+  if (!('base' in o)) {
+    throw new Error(`No.${id} ${name} does not have base forme.`)
+  }
   return o.base
 }
 
