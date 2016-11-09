@@ -67,6 +67,7 @@ As it use [pokemon](https://github.com/sindresorhus/pokemon) under the hood, so 
 - `en` (English)
 - `fr` (French)
 - `ja` (Japanese)
+- `ko` (Korean)
 - `ru` (Russian)
 - `zh-Hans` (Simplified Chinese)
 - `zh-Hant` (Traditional Chinese)
