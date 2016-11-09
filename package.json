@@ -18,11 +18,11 @@
     "url": "git+https://github.com/dalphyx/pokemon-base-stats.git"
   },
   "dependencies": {
-    "pokemon": "^0.7.0"
+    "pokemon": "^1.1.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
-    "eslint": "^3.3.1",
+    "eslint": "^3.9.1",
     "eslint-config-dalphyx": "^0.1.0"
   },
   "license": "MIT",
