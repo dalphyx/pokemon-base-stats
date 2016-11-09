@@ -2,7 +2,7 @@ const pokemon = require('pokemon')
 const data = require('./data/data')
 
 function getResult (o, id, name, forme) {
-  if (forme && forme != 'base') {
+  if (forme && forme !== 'base') {
     if (!o.otherForme || !o.otherForme[forme]) {
       throw new Error(`No.${id} ${name} does not have '${forme}' forme.`)
     }
@@ -30,7 +30,7 @@ function getByName ({ name, forme, lang = 'en' } = {}) {
   return getResult(o, id, name, forme)
 }
 
-function getFormes ({ id, name, lang = 'en'} = {}) {
+function getFormes ({ id, name, lang = 'en' } = {}) {
   if (!id) {
     id = pokemon.getId(name, lang)
   } else {
@@ -39,7 +39,7 @@ function getFormes ({ id, name, lang = 'en'} = {}) {
   }
 
   let o = data(lang)[id - 1]
-  formes = 'base' in o ? [ 'base' ] : []
+  let formes = 'base' in o ? ['base'] : []
   if ('otherForme' in o) {
     formes = formes.concat(Object.keys(o.otherForme))
   }
